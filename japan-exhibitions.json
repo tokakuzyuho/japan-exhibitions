@@ -77,6 +77,7 @@
    "start": "2026-08-29",
    "end": "2026-12-06",
    "genre": "cont",
+   "url": "https://www.mot-art-museum.jp/exhibitions/Tada-Minami/",
    "venueUrl": "https://www.mot-art-museum.jp/"
   },
   {
@@ -101,7 +102,7 @@
    "start": "2026-09-05",
    "end": "2026-11-08",
    "genre": "craft",
-   "url": "https://www.seikado.or.jp/current_exhibition",
+   "url": "https://www.seikado.or.jp/exhibition/current_exhibition/",
    "venueUrl": "https://www.seikado.or.jp/"
   },
   {
@@ -737,9 +738,9 @@
    "start": "2026-10-17",
    "end": "2027-06-20",
    "genre": "jp",
+   "note": "1기는 2027년 2월 14일까지예요. 이후 작품을 바꿔 6월까지 이어져요.",
    "url": "https://www.shokoku-ji.jp/museum/exhibition/okyo-jakuchu2026/",
-   "venueUrl": "https://www.shokoku-ji.jp/museum/",
-   "note": "1기는 2027년 2월 14일까지예요. 이후 작품을 바꿔 6월까지 이어져요."
+   "venueUrl": "https://www.shokoku-ji.jp/museum/"
   },
   {
    "id": "momat-yumeji",
