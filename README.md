@@ -16,6 +16,9 @@ iOS 앱 "전시 아카이브"의 **일본 전시** 탭이 `japan-exhibitions.jso
   "title": "한국어 제목", "originalTitle": "일본어 제목(선택)",
   "venue": "관 이름(한국어)", "city": "도쿄|요코하마|교토|오사카|고베|나라|나고야|가나자와|히로시마|후쿠오카|삿포로",
   "area": "도시 안 동네", "start": "yyyy-MM-dd", "end": "yyyy-MM-dd",
-  "genre": "jp|west|cont|craft|sci", "tentative": true, "note": "선택", "url": "선택"
+  "genre": "jp|west|cont|craft|sci", "tentative": true, "note": "선택",
+  "url": "전시 공식 페이지(있으면)", "venueUrl": "미술관 · 박물관 공식 사이트"
 }]}
 ```
+
+앱의 "공식 사이트에서 보기"는 `url`(전시 페이지)이 있으면 그곳을, 없으면 `venueUrl`(기관 사이트)을 엽니다.

@@ -11,7 +11,8 @@
    "start": "2026-03-20",
    "end": "2027-04-11",
    "genre": "west",
-   "url": "https://www.museum.or.jp/event/124118"
+   "url": "https://www.asahigroup-oyamazaki.com/exhibition/monet/",
+   "venueUrl": "https://www.asahigroup-oyamazaki.com/"
   },
   {
    "id": "nmao-sasamoto",
@@ -23,7 +24,8 @@
    "start": "2026-07-19",
    "end": "2026-11-03",
    "genre": "cont",
-   "url": "https://www.museum.or.jp/event/124069"
+   "url": "https://www.nmao.go.jp/events/event/20260719_sasamoto-aki/",
+   "venueUrl": "https://www.nmao.go.jp/"
   },
   {
    "id": "tobikan-british-museum",
@@ -36,7 +38,8 @@
    "end": "2026-10-18",
    "genre": "jp",
    "note": "11월부터 오사카 나카노시마 미술관으로 순회해요.",
-   "url": "https://www.museum.or.jp/event/122858"
+   "url": "https://daiei-ten2026.exhibit.jp/",
+   "venueUrl": "https://www.tobikan.jp/"
   },
   {
    "id": "yokohama-marie-antoinette",
@@ -48,7 +51,8 @@
    "start": "2026-08-01",
    "end": "2026-11-23",
    "genre": "craft",
-   "url": "https://www.museum.or.jp/event/122122"
+   "url": "https://www.marie2026.jp/",
+   "venueUrl": "https://yokohama.art.museum/"
   },
   {
    "id": "2121-hojoki",
@@ -59,7 +63,9 @@
    "area": "롯폰기",
    "start": "2026-08-28",
    "end": "2027-01-11",
-   "genre": "craft"
+   "genre": "craft",
+   "url": "https://www.2121designsight.jp/program/hojoki/",
+   "venueUrl": "https://www.2121designsight.jp/"
   },
   {
    "id": "mot-tada",
@@ -70,7 +76,8 @@
    "area": "기요스미시라카와",
    "start": "2026-08-29",
    "end": "2026-12-06",
-   "genre": "cont"
+   "genre": "cont",
+   "venueUrl": "https://www.mot-art-museum.jp/"
   },
   {
    "id": "senoku-kyoto-kanei",
@@ -82,7 +89,7 @@
    "start": "2026-09-05",
    "end": "2026-10-18",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/126760"
+   "venueUrl": "https://sen-oku.or.jp/kyoto/"
   },
   {
    "id": "seikado-kawai",
@@ -94,7 +101,8 @@
    "start": "2026-09-05",
    "end": "2026-11-08",
    "genre": "craft",
-   "url": "https://www.museum.or.jp/event/123103"
+   "url": "https://www.seikado.or.jp/current_exhibition",
+   "venueUrl": "https://www.seikado.or.jp/"
   },
   {
    "id": "mot-constellation",
@@ -105,7 +113,9 @@
    "area": "기요스미시라카와",
    "start": "2026-09-05",
    "end": "2026-12-13",
-   "genre": "cont"
+   "genre": "cont",
+   "url": "https://www.mot-art-museum.jp/exhibitions/Constellation/",
+   "venueUrl": "https://www.mot-art-museum.jp/"
   },
   {
    "id": "fam-yamauchi",
@@ -117,7 +127,8 @@
    "start": "2026-09-08",
    "end": "2026-12-20",
    "genre": "cont",
-   "url": "https://www.fukuoka-art-museum.jp/exhibition/"
+   "url": "https://www.fukuoka-art-museum.jp/exhibition/yamauchi_terue/",
+   "venueUrl": "https://www.fukuoka-art-museum.jp/"
   },
   {
    "id": "21c-ushijima-sawa",
@@ -129,7 +140,8 @@
    "start": "2026-09-08",
    "end": "2027-04-18",
    "genre": "cont",
-   "url": "https://www.museum.or.jp/event/126737"
+   "url": "https://www.kanazawa21.jp/data_list.php?g=17&d=1855",
+   "venueUrl": "https://www.kanazawa21.jp/"
   },
   {
    "id": "eki-uno",
@@ -141,7 +153,7 @@
    "start": "2026-09-09",
    "end": "2026-10-25",
    "genre": "cont",
-   "url": "https://www.museum.or.jp/event/126526"
+   "url": "https://www.mistore.jp/store/kyoto/museum/event_list/event19.html"
   },
   {
    "id": "nact-louvre-renaissance",
@@ -153,7 +165,8 @@
    "start": "2026-09-09",
    "end": "2026-12-13",
    "genre": "west",
-   "url": "https://www.museum.or.jp/event/122660"
+   "url": "https://www.nact.jp/exhibition_special/2026/louvre2026/",
+   "venueUrl": "https://www.nact.jp/"
   },
   {
    "id": "hokkaido-miniature-life",
@@ -165,7 +178,8 @@
    "start": "2026-09-12",
    "end": "2026-11-08",
    "genre": "cont",
-   "url": "https://artmuseum.pref.hokkaido.lg.jp/knb/"
+   "url": "https://artmuseum.pref.hokkaido.lg.jp/knb/exhibition/program/333",
+   "venueUrl": "https://artmuseum.pref.hokkaido.lg.jp/knb/"
   },
   {
    "id": "mitsui-chawan",
@@ -177,7 +191,8 @@
    "start": "2026-09-12",
    "end": "2026-11-23",
    "genre": "craft",
-   "url": "https://www.museum.or.jp/event/124004"
+   "url": "https://www.mitsui-museum.jp/exhibition/index.html",
+   "venueUrl": "https://www.mitsui-museum.jp/"
   },
   {
    "id": "hokkaido-ways-of-making",
@@ -189,7 +204,8 @@
    "start": "2026-09-12",
    "end": "2026-12-20",
    "genre": "cont",
-   "url": "https://artmuseum.pref.hokkaido.lg.jp/knb/"
+   "url": "https://artmuseum.pref.hokkaido.lg.jp/knb/exhibition/program/330",
+   "venueUrl": "https://artmuseum.pref.hokkaido.lg.jp/knb/"
   },
   {
    "id": "edohaku-toyotomi",
@@ -201,7 +217,8 @@
    "start": "2026-09-15",
    "end": "2026-11-08",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/124951"
+   "url": "https://toyotomi2026.jp/",
+   "venueUrl": "https://www.edo-tokyo-museum.or.jp/"
   },
   {
    "id": "21c-new-circuit",
@@ -213,7 +230,8 @@
    "start": "2026-09-15",
    "end": "2027-04-18",
    "genre": "cont",
-   "url": "https://www.museum.or.jp/event/126756"
+   "url": "https://www.kanazawa21.jp/data_list.php?g=65&d=1857",
+   "venueUrl": "https://www.kanazawa21.jp/"
   },
   {
    "id": "suntory-itsuo",
@@ -225,7 +243,8 @@
    "start": "2026-09-16",
    "end": "2026-11-08",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/123112"
+   "url": "https://www.suntory.co.jp/sma/exhibition/2026_3/index.html",
+   "venueUrl": "https://www.suntory.co.jp/sma/"
   },
   {
    "id": "kanazawabunko-buddhist",
@@ -237,7 +256,8 @@
    "start": "2026-09-18",
    "end": "2026-11-08",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/126734"
+   "url": "https://www.pen-kanagawa.ed.jp/kanazawabunko/tenrankai/ichiran/r8/20260725shibatacollection.html",
+   "venueUrl": "https://www.pen-kanagawa.ed.jp/kanazawabunko/"
   },
   {
    "id": "tsg-suikoden",
@@ -249,7 +269,8 @@
    "start": "2026-09-19",
    "end": "2026-11-08",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/121862"
+   "url": "http://www.ejrcf.or.jp/gallery/exhibition/202609_suikoden.html",
+   "venueUrl": "https://www.ejrcf.or.jp/gallery/"
   },
   {
    "id": "ishikawa-rekihaku-costume",
@@ -261,7 +282,8 @@
    "start": "2026-09-19",
    "end": "2026-11-08",
    "genre": "craft",
-   "url": "https://www.museum.or.jp/event/126602"
+   "url": "https://ishikawa-rekihaku.jp/special/special_top.php?cd=2026082001",
+   "venueUrl": "https://ishikawa-rekihaku.jp/"
   },
   {
    "id": "bunpaku-kanei",
@@ -273,7 +295,8 @@
    "start": "2026-09-19",
    "end": "2026-11-15",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/127037"
+   "url": "https://www.bunpaku.or.jp/exhi_special_post/20260919-1115/",
+   "venueUrl": "https://www.bunpaku.or.jp/"
   },
   {
    "id": "nagoyacity-gogh",
@@ -285,7 +308,8 @@
    "start": "2026-09-19",
    "end": "2026-11-29",
    "genre": "west",
-   "url": "https://www.museum.or.jp/event/125073"
+   "url": "https://static.chunichi.co.jp/chunichi/pages/event/vangoghandtheimpressionists/",
+   "venueUrl": "https://www.art-museum.city.nagoya.jp/"
   },
   {
    "id": "oyamazaki-rouault",
@@ -297,7 +321,8 @@
    "start": "2026-09-19",
    "end": "2026-12-06",
    "genre": "west",
-   "url": "https://www.museum.or.jp/event/127244"
+   "url": "https://www.asahigroup-oyamazaki.com/exhibition/rouault/",
+   "venueUrl": "https://www.asahigroup-oyamazaki.com/"
   },
   {
    "id": "kyocera-yamaga",
@@ -309,12 +334,13 @@
    "start": "2026-09-19",
    "end": "2026-12-20",
    "genre": "craft",
-   "url": "https://www.museum.or.jp/event/120579"
+   "url": "https://kyotocity-kyocera.museum/exhibition/20260919-20261220",
+   "venueUrl": "https://kyotocity-kyocera.museum/"
   },
   {
    "id": "fukuda-chigo",
-   "title": "사람의 모습·사랑의 형태 — 최고(最古)의 춘화 「지고조시」 첫 공개",
-   "originalTitle": "人のすがた・愛のかたち－最古の春画「稚児草紙」初公開－",
+   "title": "사랑의 형태 — 환상의 춘화 「지고조시」 공개",
+   "originalTitle": "愛のカタチ ―幻の春画《稚児草紙》公開―",
    "venue": "후쿠다 미술관",
    "city": "교토",
    "area": "아라시야마",
@@ -322,7 +348,8 @@
    "end": "2027-01-17",
    "genre": "jp",
    "note": "춘화 전시라 18세 미만은 관람할 수 없을 수 있어요. 공식 사이트를 확인해 주세요.",
-   "url": "https://www.museum.or.jp/event/122638"
+   "url": "https://fukuda-art-museum.jp/exhibition/202607014791",
+   "venueUrl": "https://fukuda-art-museum.jp/"
   },
   {
    "id": "ishikawa-hasuda",
@@ -334,7 +361,8 @@
    "start": "2026-09-20",
    "end": "2026-10-25",
    "genre": "craft",
-   "url": "https://www.museum.or.jp/event/127106"
+   "url": "https://www.ishibi.pref.ishikawa.jp/exhibition/hasuda/",
+   "venueUrl": "https://www.ishibi.pref.ishikawa.jp/"
   },
   {
    "id": "sompo-marquet",
@@ -346,7 +374,8 @@
    "start": "2026-09-22",
    "end": "2026-12-13",
    "genre": "west",
-   "url": "https://www.museum.or.jp/event/121661"
+   "url": "https://www.sompo-museum.org/exhibitions/2025/albertmarquet/",
+   "venueUrl": "https://www.sompo-museum.org/"
   },
   {
    "id": "gakushuin-banquet",
@@ -358,7 +387,8 @@
    "start": "2026-09-26",
    "end": "2026-11-21",
    "genre": "craft",
-   "url": "https://www.museum.or.jp/event/126941"
+   "url": "https://www.museum.univ.gakushuin.ac.jp/exhibition/",
+   "venueUrl": "https://www.museum.univ.gakushuin.ac.jp/"
   },
   {
    "id": "tnm-hiroshige",
@@ -370,7 +400,8 @@
    "start": "2026-09-29",
    "end": "2026-12-20",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/125267"
+   "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=2759",
+   "venueUrl": "https://www.tnm.jp/"
   },
   {
    "id": "nagoya-token-chokoku",
@@ -382,7 +413,8 @@
    "start": "2026-10-01",
    "end": "2027-01-17",
    "genre": "craft",
-   "url": "https://www.museum.or.jp/event/126560"
+   "url": "https://www.meihaku.jp/event-sword-sculpture/",
+   "venueUrl": "https://www.meihaku.jp/"
   },
   {
    "id": "hpam-sugai",
@@ -394,7 +426,8 @@
    "start": "2026-10-02",
    "end": "2026-12-06",
    "genre": "cont",
-   "url": "https://www.museum.or.jp/event/126555"
+   "url": "https://www.hpam.jp/museum/exhibitions/sugaikumi/",
+   "venueUrl": "https://www.hpam.jp/"
   },
   {
    "id": "kyocera-zen-ghibli",
@@ -405,7 +438,9 @@
    "area": "오카자키",
    "start": "2026-10-03",
    "end": "2026-12-06",
-   "genre": "cont"
+   "genre": "cont",
+   "url": "https://kyotocity-kyocera.museum/exhibition/20261003-20261206",
+   "venueUrl": "https://kyotocity-kyocera.museum/"
   },
   {
    "id": "harukas-wyeth",
@@ -417,7 +452,8 @@
    "start": "2026-10-03",
    "end": "2026-12-06",
    "genre": "west",
-   "url": "https://www.museum.or.jp/event/123151"
+   "url": "https://www.aham.jp/exhibition/future/wyeth/",
+   "venueUrl": "https://www.aham.jp/"
   },
   {
    "id": "takenaka-wood",
@@ -429,7 +465,8 @@
    "start": "2026-10-03",
    "end": "2026-12-13",
    "genre": "craft",
-   "url": "https://www.museum.or.jp/event/126683"
+   "url": "https://www.dougukan.jp/special_exhibition/where_trees_live_again",
+   "venueUrl": "https://www.dougukan.jp/"
   },
   {
    "id": "teien-marimekko",
@@ -441,7 +478,8 @@
    "start": "2026-10-03",
    "end": "2026-12-20",
    "genre": "craft",
-   "url": "https://www.museum.or.jp/event/125065"
+   "url": "https://www.teien-art-museum.ne.jp/exhibition/20261003-1220_marimekko/",
+   "venueUrl": "https://www.teien-art-museum.ne.jp/"
   },
   {
    "id": "hiroshima-cafe",
@@ -453,7 +491,8 @@
    "start": "2026-10-03",
    "end": "2027-01-11",
    "genre": "west",
-   "url": "https://www.museum.or.jp/event/126310"
+   "url": "https://www.hiroshima-museum.jp/special/detail/202610_cafe.html",
+   "venueUrl": "https://www.hiroshima-museum.jp/"
   },
   {
    "id": "setabun-yamazaki-mari",
@@ -465,7 +504,8 @@
    "start": "2026-10-03",
    "end": "2027-02-07",
    "genre": "cont",
-   "url": "https://www.museum.or.jp/event/127079"
+   "url": "https://www.setabun.or.jp/exhibition/20261003-20270207_yamazakimari.html",
+   "venueUrl": "https://www.setabun.or.jp/"
   },
   {
    "id": "kyohaku-genji",
@@ -478,7 +518,8 @@
    "end": "2026-11-29",
    "genre": "jp",
    "note": "2027년 1월에 도쿄국립박물관으로 순회해요.",
-   "url": "https://www.museum.or.jp/event/121146"
+   "url": "https://www.kyohaku.go.jp/jp/exhibitions/special/2026_genji/",
+   "venueUrl": "https://www.kyohaku.go.jp/"
   },
   {
    "id": "ota-oi",
@@ -490,7 +531,8 @@
    "start": "2026-10-06",
    "end": "2026-12-06",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/123905"
+   "url": "https://www.ukiyoe-ota-muse.jp/katsushikaoi2026/",
+   "venueUrl": "https://www.ukiyoe-ota-muse.jp/"
   },
   {
    "id": "toguri-saga-nagasaki",
@@ -502,7 +544,7 @@
    "start": "2026-10-07",
    "end": "2026-12-20",
    "genre": "craft",
-   "url": "https://www.museum.or.jp/event/123310"
+   "venueUrl": "https://www.toguri-museum.or.jp/"
   },
   {
    "id": "tokugawa-box",
@@ -514,7 +556,8 @@
    "start": "2026-10-08",
    "end": "2026-11-15",
    "genre": "craft",
-   "url": "https://www.museum.or.jp/event/125812"
+   "url": "https://www.tokugawa-art-museum.jp/exhibitions/tokimekuhako/",
+   "venueUrl": "https://www.tokugawa-art-museum.jp/"
   },
   {
    "id": "tokugawa-yoshichika",
@@ -526,7 +569,8 @@
    "start": "2026-10-08",
    "end": "2026-12-13",
    "genre": "jp",
-   "url": "https://www.tokugawa-art-museum.jp/"
+   "url": "https://www.tokugawa-art-museum.jp/exhibitions/tabi/",
+   "venueUrl": "https://www.tokugawa-art-museum.jp/"
   },
   {
    "id": "craft-design-chronicle",
@@ -538,7 +582,8 @@
    "start": "2026-10-09",
    "end": "2027-01-11",
    "genre": "craft",
-   "url": "https://www.museum.or.jp/event/126246"
+   "url": "https://www.momat.go.jp/craft-museum/exhibitions/573",
+   "venueUrl": "https://www.momat.go.jp/craft-museum"
   },
   {
    "id": "kobecity-moomin",
@@ -550,7 +595,8 @@
    "start": "2026-10-10",
    "end": "2026-12-13",
    "genre": "cont",
-   "url": "https://www.museum.or.jp/event/125148"
+   "url": "https://www.kobecitymuseum.jp/exhibition/detail?exhibition=392",
+   "venueUrl": "https://www.kobecitymuseum.jp/"
   },
   {
    "id": "nakanoshima-nichiyobijutsukan",
@@ -562,7 +608,8 @@
    "start": "2026-10-10",
    "end": "2026-12-20",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/124964"
+   "url": "https://nichibiten50.jp/",
+   "venueUrl": "https://nakka-art.jp/"
   },
   {
    "id": "hyogo-matsukata-yamamura",
@@ -574,7 +621,8 @@
    "start": "2026-10-10",
    "end": "2026-12-27",
    "genre": "west",
-   "url": "https://www.artm.pref.hyogo.jp/"
+   "url": "https://www.artm.pref.hyogo.jp/exhibition/t_2610/index.html",
+   "venueUrl": "https://www.artm.pref.hyogo.jp/"
   },
   {
    "id": "uenomori-cincinnati",
@@ -586,7 +634,8 @@
    "start": "2026-10-10",
    "end": "2027-01-10",
    "genre": "west",
-   "url": "https://www.museum.or.jp/event/123678"
+   "url": "https://www.cincinnati-art2026.jp/",
+   "venueUrl": "https://www.ueno-mori.org/"
   },
   {
    "id": "artpark-ukiyoe",
@@ -598,7 +647,8 @@
    "start": "2026-10-10",
    "end": "2027-01-11",
    "genre": "jp",
-   "url": "https://artpark.or.jp/"
+   "url": "https://artpark.or.jp/tenrankai-event/5ukiyoeshi/",
+   "venueUrl": "https://artpark.or.jp/"
   },
   {
    "id": "tnm-daitokuji",
@@ -610,7 +660,8 @@
    "start": "2026-10-14",
    "end": "2026-12-06",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/124287"
+   "url": "https://daitokuji2026.exhn.jp/",
+   "venueUrl": "https://www.tnm.jp/"
   },
   {
    "id": "shiodome-yoshida",
@@ -621,7 +672,8 @@
    "area": "시오도메",
    "start": "2026-10-15",
    "end": "2026-12-20",
-   "genre": "craft"
+   "genre": "craft",
+   "venueUrl": "https://panasonic.co.jp/ew/museum/"
   },
   {
    "id": "kanagawa-rekihaku-intro",
@@ -633,7 +685,8 @@
    "start": "2026-10-17",
    "end": "2026-12-13",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/126547"
+   "url": "https://ch.kanagawa-museum.jp/exhibition/11382",
+   "venueUrl": "https://ch.kanagawa-museum.jp/"
   },
   {
    "id": "operacity-seeds",
@@ -644,7 +697,9 @@
    "area": "하쓰다이",
    "start": "2026-10-17",
    "end": "2026-12-20",
-   "genre": "cont"
+   "genre": "cont",
+   "url": "https://www.operacity.jp/ag/exh303/",
+   "venueUrl": "https://www.operacity.jp/ag/"
   },
   {
    "id": "fam-chintz",
@@ -656,7 +711,8 @@
    "start": "2026-10-17",
    "end": "2026-12-20",
    "genre": "craft",
-   "url": "https://www.fukuoka-art-museum.jp/exhibition/"
+   "url": "https://www.fukuoka-art-museum.jp/exhibition/chintz_a_global_story_the_karunthakar_collection/",
+   "venueUrl": "https://www.fukuoka-art-museum.jp/"
   },
   {
    "id": "ichigokan-fontanesi",
@@ -668,7 +724,8 @@
    "start": "2026-10-17",
    "end": "2027-01-24",
    "genre": "west",
-   "url": "https://www.museum.or.jp/event/123738"
+   "url": "https://mimt.jp/ex_sp/fontanesi/",
+   "venueUrl": "https://mimt.jp/"
   },
   {
    "id": "jotenkaku-okyo-jakuchu",
@@ -680,7 +737,9 @@
    "start": "2026-10-17",
    "end": "2027-06-20",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/126805"
+   "url": "https://www.shokoku-ji.jp/museum/exhibition/okyo-jakuchu2026/",
+   "venueUrl": "https://www.shokoku-ji.jp/museum/",
+   "note": "1기는 2027년 2월 14일까지예요. 이후 작품을 바꿔 6월까지 이어져요."
   },
   {
    "id": "momat-yumeji",
@@ -692,7 +751,8 @@
    "start": "2026-10-23",
    "end": "2027-01-11",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/123107"
+   "url": "https://www.momat.go.jp/exhibitions/570",
+   "venueUrl": "https://www.momat.go.jp/"
   },
   {
    "id": "narahaku-shosoin-78",
@@ -705,7 +765,8 @@
    "end": "2026-11-09",
    "genre": "jp",
    "note": "날짜 지정 예매제예요. 미리 표를 사 두세요.",
-   "url": "https://shosoin-ten.jp/"
+   "url": "https://shosoin-ten.jp/",
+   "venueUrl": "https://www.narahaku.go.jp/"
   },
   {
    "id": "nezu-bugaku",
@@ -716,7 +777,8 @@
    "area": "오모테산도",
    "start": "2026-10-24",
    "end": "2026-11-23",
-   "genre": "craft"
+   "genre": "craft",
+   "venueUrl": "https://www.nezu-muse.or.jp/"
   },
   {
    "id": "hmoca-senzaki",
@@ -728,7 +790,8 @@
    "start": "2026-10-24",
    "end": "2026-12-13",
    "genre": "cont",
-   "url": "https://www.museum.or.jp/event/126638"
+   "url": "https://www.hiroshima-moca.jp/exhibition/senzakichieo",
+   "venueUrl": "https://www.hiroshima-moca.jp/"
   },
   {
    "id": "momak-jewelry",
@@ -740,7 +803,8 @@
    "start": "2026-10-24",
    "end": "2027-01-17",
    "genre": "craft",
-   "url": "https://www.museum.or.jp/event/125808"
+   "url": "https://www.momak.go.jp/Japanese/exhibitionarchive/2026/468.html",
+   "venueUrl": "https://www.momak.go.jp/"
   },
   {
    "id": "artizon-etrangers",
@@ -752,7 +816,8 @@
    "start": "2026-10-24",
    "end": "2027-01-31",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/123096"
+   "url": "https://www.artizon.museum/exhibition/detail/610",
+   "venueUrl": "https://www.artizon.museum/"
   },
   {
    "id": "artizon-jam-fujii",
@@ -763,7 +828,9 @@
    "area": "마루노우치·교바시",
    "start": "2026-10-24",
    "end": "2027-01-31",
-   "genre": "cont"
+   "genre": "cont",
+   "url": "https://www.artizon.museum/exhibition/detail/608",
+   "venueUrl": "https://www.artizon.museum/"
   },
   {
    "id": "nmwa-turner",
@@ -775,7 +842,8 @@
    "start": "2026-10-24",
    "end": "2027-02-21",
    "genre": "west",
-   "url": "https://www.museum.or.jp/event/123601"
+   "url": "https://turner2026-27.exhibit.jp/",
+   "venueUrl": "https://www.nmwa.go.jp/"
   },
   {
    "id": "nact-shojo-manga",
@@ -787,7 +855,8 @@
    "start": "2026-10-28",
    "end": "2027-02-08",
    "genre": "cont",
-   "url": "https://www.museum.or.jp/event/123312"
+   "url": "https://www.nact.jp/exhibition_special/2026/shojomanga/",
+   "venueUrl": "https://www.nact.jp/"
   },
   {
    "id": "apmoa-bigelow",
@@ -799,7 +868,8 @@
    "start": "2026-10-30",
    "end": "2026-12-13",
    "genre": "jp",
-   "url": "https://apmoa.museum/"
+   "url": "https://apmoa.museum/exhibition/bigelow",
+   "venueUrl": "https://apmoa.museum/"
   },
   {
    "id": "kyuhaku-himiko",
@@ -811,7 +881,8 @@
    "start": "2026-10-31",
    "end": "2027-01-11",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/126063"
+   "url": "https://www.kyuhaku.jp/exhibition/exhibition_s78.html",
+   "venueUrl": "https://www.kyuhaku.jp/"
   },
   {
    "id": "nakanoshima-british-museum",
@@ -823,7 +894,8 @@
    "start": "2026-10-31",
    "end": "2027-01-31",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/122859"
+   "url": "https://nakka-art.jp/exhibition-post/daiei-ten2026/",
+   "venueUrl": "https://nakka-art.jp/"
   },
   {
    "id": "kahaku-sex",
@@ -835,7 +907,8 @@
    "start": "2026-10-31",
    "end": "2027-02-21",
    "genre": "sci",
-   "url": "https://www.museum.or.jp/event/124836"
+   "url": "https://www.ikimono-sei.jp/",
+   "venueUrl": "https://www.kahaku.go.jp/"
   },
   {
    "id": "mori-mariko-mori",
@@ -846,7 +919,8 @@
    "area": "롯폰기",
    "start": "2026-10-31",
    "end": "2027-03-28",
-   "genre": "cont"
+   "genre": "cont",
+   "venueUrl": "https://www.mori.art.museum/jp/"
   },
   {
    "id": "senoku-tokyo-karamono",
@@ -858,7 +932,8 @@
    "start": "2026-11-03",
    "end": "2026-12-13",
    "genre": "craft",
-   "tentative": true
+   "tentative": true,
+   "venueUrl": "https://sen-oku.or.jp/tokyo/"
   },
   {
    "id": "sannomaru-treasures",
@@ -870,7 +945,8 @@
    "start": "2026-11-03",
    "end": "2027-01-24",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/126940"
+   "url": "https://shozokan.nich.go.jp/feature/grand-opening/beauty/",
+   "venueUrl": "https://shozokan.nich.go.jp/"
   },
   {
    "id": "hmoca-bratislava",
@@ -882,7 +958,8 @@
    "start": "2026-11-14",
    "end": "2027-01-24",
    "genre": "cont",
-   "url": "https://www.museum.or.jp/event/126953"
+   "url": "https://www.hiroshima-moca.jp/exhibition/bratislava",
+   "venueUrl": "https://www.hiroshima-moca.jp/"
   },
   {
    "id": "tobikan-orsay",
@@ -894,7 +971,21 @@
    "start": "2026-11-14",
    "end": "2027-03-28",
    "genre": "west",
-   "url": "https://www.museum.or.jp/event/122310"
+   "url": "https://art.nikkei.com/orsay2627/",
+   "venueUrl": "https://www.tobikan.jp/"
+  },
+  {
+   "id": "tobikan-waysofreading",
+   "title": "당신이 세계를 읽기 위해",
+   "originalTitle": "東京都美術館開館100周年記念 あなたが世界を読むために",
+   "venue": "도쿄도미술관",
+   "city": "도쿄",
+   "area": "우에노",
+   "start": "2026-11-19",
+   "end": "2027-01-11",
+   "genre": "cont",
+   "url": "https://www.tobikan.jp/exhibition/2026_waysofreading.html",
+   "venueUrl": "https://www.tobikan.jp/"
   },
   {
    "id": "seikado-masks",
@@ -905,7 +996,21 @@
    "area": "마루노우치·교바시",
    "start": "2026-11-21",
    "end": "2027-01-17",
-   "genre": "craft"
+   "genre": "craft",
+   "venueUrl": "https://www.seikado.or.jp/"
+  },
+  {
+   "id": "tsg-astrup",
+   "title": "니콜라이 아스트루프 — 창조하는 정원",
+   "originalTitle": "ニコライ・アストルップ 創造する庭",
+   "venue": "도쿄 스테이션 갤러리",
+   "city": "도쿄",
+   "area": "마루노우치·교바시",
+   "start": "2026-11-21",
+   "end": "2027-01-31",
+   "genre": "west",
+   "url": "http://www.ejrcf.or.jp/gallery/exhibition.html#section03",
+   "venueUrl": "https://www.ejrcf.or.jp/gallery/"
   },
   {
    "id": "crevia-tim-burton",
@@ -917,12 +1022,12 @@
    "start": "2026-11-25",
    "end": "2027-02-21",
    "genre": "cont",
-   "url": "https://www.museum.or.jp/event/127001"
+   "url": "https://tokyo.timburtonexhibition.com/"
   },
   {
    "id": "edohaku-okyo",
-   "title": "마루야마 오쿄",
-   "originalTitle": "円山応挙",
+   "title": "마루야마 오쿄 — 리얼 너머로, 공간 혁명",
+   "originalTitle": "円山応挙 リアルの先へ 空間革命",
    "venue": "에도도쿄박물관",
    "city": "도쿄",
    "area": "료고쿠",
@@ -930,7 +1035,8 @@
    "end": "2027-01-24",
    "genre": "jp",
    "note": "2월부터 오사카시립미술관으로 순회해요.",
-   "url": "https://www.museum.or.jp/event/124944"
+   "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/okyo/",
+   "venueUrl": "https://www.edo-tokyo-museum.or.jp/"
   },
   {
    "id": "nmao-kotoba",
@@ -942,7 +1048,8 @@
    "start": "2026-12-01",
    "end": "2027-03-14",
    "genre": "cont",
-   "url": "https://www.museum.or.jp/event/124071"
+   "url": "https://www.nmao.go.jp/events/event/20261201_stratified-languages/",
+   "venueUrl": "https://www.nmao.go.jp/"
   },
   {
    "id": "fam-cambodia",
@@ -954,7 +1061,8 @@
    "start": "2026-12-02",
    "end": "2027-02-07",
    "genre": "craft",
-   "url": "https://www.fukuoka-art-museum.jp/exhibition/"
+   "url": "https://www.fukuoka-art-museum.jp/exhibition/the_textikle_of_cambodia2026/",
+   "venueUrl": "https://www.fukuoka-art-museum.jp/"
   },
   {
    "id": "nezu-urushi",
@@ -965,7 +1073,20 @@
    "area": "오모테산도",
    "start": "2026-12-05",
    "end": "2027-01-17",
-   "genre": "craft"
+   "genre": "craft",
+   "venueUrl": "https://www.nezu-muse.or.jp/"
+  },
+  {
+   "id": "ota-unknown-ukiyoe",
+   "title": "당신이 모르는 우키요에 화가들",
+   "originalTitle": "あなたの知らない浮世絵師たち",
+   "venue": "오타 기념 미술관",
+   "city": "도쿄",
+   "area": "하라주쿠",
+   "start": "2026-12-12",
+   "end": "2027-01-17",
+   "genre": "jp",
+   "venueUrl": "https://www.ukiyoe-ota-muse.jp/"
   },
   {
    "id": "mitsui-sesshozu",
@@ -976,19 +1097,21 @@
    "area": "니혼바시",
    "start": "2026-12-12",
    "end": "2027-01-30",
-   "genre": "jp"
+   "genre": "jp",
+   "venueUrl": "https://www.mitsui-museum.jp/"
   },
   {
    "id": "suntory-hokekyo",
-   "title": "법화경의 미술",
-   "originalTitle": "法華経の美術（仮称）",
+   "title": "법화경의 미술 — 만든다는 것은 바란다는 것",
+   "originalTitle": "法華経の美術――つくるとは、願うこと",
    "venue": "산토리미술관",
    "city": "도쿄",
    "area": "롯폰기",
    "start": "2026-12-12",
    "end": "2027-02-07",
    "genre": "jp",
-   "tentative": true
+   "url": "https://www.suntory.co.jp/sma/exhibition/2026_4/index.html",
+   "venueUrl": "https://www.suntory.co.jp/sma/"
   },
   {
    "id": "kyocera-hakuin",
@@ -999,7 +1122,22 @@
    "area": "오카자키",
    "start": "2026-12-17",
    "end": "2027-01-11",
-   "genre": "jp"
+   "genre": "jp",
+   "url": "https://kyotocity-kyocera.museum/exhibition/20261217-20270111",
+   "venueUrl": "https://kyotocity-kyocera.museum/"
+  },
+  {
+   "id": "oyamazaki-hagio",
+   "title": "하기오 모토전 — 유럽을 향한 동경",
+   "originalTitle": "萩尾望都展 ―欧州への憧憬",
+   "venue": "아사히그룹 오야마자키 산장 미술관",
+   "city": "교토",
+   "area": "오야마자키",
+   "start": "2026-12-19",
+   "end": "2027-04-11",
+   "genre": "cont",
+   "url": "https://www.asahigroup-oyamazaki.com/exhibition/hagiomoto/",
+   "venueUrl": "https://www.asahigroup-oyamazaki.com/"
   },
   {
    "id": "harukas-lucie-rie",
@@ -1011,7 +1149,8 @@
    "start": "2026-12-26",
    "end": "2027-03-07",
    "genre": "craft",
-   "url": "https://www.museum.or.jp/event/123152"
+   "url": "https://www.aham.jp/exhibition/future/lucie_rie/",
+   "venueUrl": "https://www.aham.jp/"
   },
   {
    "id": "tnm-ff40",
@@ -1023,7 +1162,21 @@
    "start": "2027-01-08",
    "end": "2027-04-04",
    "genre": "cont",
-   "url": "https://www.museum.or.jp/event/126814"
+   "url": "https://www.jp.square-enix.com/ff40th/exhibition/",
+   "venueUrl": "https://www.tnm.jp/"
+  },
+  {
+   "id": "nakanoshima-women100",
+   "title": "만드는 여성의 100년",
+   "originalTitle": "つくる女性の100年",
+   "venue": "오사카 나카노시마 미술관",
+   "city": "오사카",
+   "area": "나카노시마",
+   "start": "2027-01-09",
+   "end": "2027-03-22",
+   "genre": "cont",
+   "url": "https://nakka-art.jp/exhibition-post/paving-the-way100/",
+   "venueUrl": "https://nakka-art.jp/"
   },
   {
    "id": "shiodome-gustavsberg",
@@ -1035,7 +1188,7 @@
    "start": "2027-01-16",
    "end": "2027-03-22",
    "genre": "craft",
-   "url": "https://www.museum.or.jp/event/124709"
+   "venueUrl": "https://panasonic.co.jp/ew/museum/"
   },
   {
    "id": "tnm-genji",
@@ -1048,7 +1201,8 @@
    "end": "2027-03-14",
    "genre": "jp",
    "note": "지금은 교토국립박물관에서 열리고 있어요(11월 29일까지).",
-   "url": "https://www.museum.or.jp/event/124676"
+   "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=2763",
+   "venueUrl": "https://www.tnm.jp/"
   },
   {
    "id": "apmoa-sekainokotowari",
@@ -1060,19 +1214,71 @@
    "start": "2027-01-29",
    "end": "2027-04-04",
    "genre": "cont",
-   "url": "https://apmoa.museum/"
+   "url": "https://apmoa.museum/exhibition/wheredowestand",
+   "venueUrl": "https://apmoa.museum/"
+  },
+  {
+   "id": "seikado-ohina",
+   "title": "히나 인형과 우키요에 겐지에 — 이와사키 부인이 사랑한 물건들",
+   "originalTitle": "おひなさまと浮世絵の源氏絵 岩﨑夫人が愛した品々",
+   "venue": "세이카도@마루노우치",
+   "city": "도쿄",
+   "area": "마루노우치·교바시",
+   "start": "2027-01-30",
+   "end": "2027-03-28",
+   "genre": "jp",
+   "venueUrl": "https://www.seikado.or.jp/"
+  },
+  {
+   "id": "nezu-buddha",
+   "title": "네즈 미술관의 불상 컬렉션",
+   "originalTitle": "根津美術館の仏像コレクション",
+   "venue": "네즈 미술관",
+   "city": "도쿄",
+   "area": "오모테산도",
+   "start": "2027-01-30",
+   "end": "2027-03-28",
+   "genre": "jp",
+   "venueUrl": "https://www.nezu-muse.or.jp/"
+  },
+  {
+   "id": "fukuda-timeless-code",
+   "title": "Timeless Code — 현대 ⇔ 에도",
+   "originalTitle": "Timeless Code 現代 ⇔ 江戸",
+   "venue": "후쿠다 미술관",
+   "city": "교토",
+   "area": "아라시야마",
+   "start": "2027-01-30",
+   "end": "2027-06-06",
+   "genre": "jp",
+   "url": "https://fukuda-art-museum.jp/exhibition/202609174984",
+   "venueUrl": "https://fukuda-art-museum.jp/"
+  },
+  {
+   "id": "2121-time",
+   "title": "시간전",
+   "originalTitle": "時間展",
+   "venue": "21_21 DESIGN SIGHT",
+   "city": "도쿄",
+   "area": "롯폰기",
+   "start": "2027-02-05",
+   "end": "2027-05-23",
+   "genre": "craft",
+   "url": "https://www.2121designsight.jp/program/time/",
+   "venueUrl": "https://www.2121designsight.jp/"
   },
   {
    "id": "osakacity-okyo",
-   "title": "마루야마 오쿄",
-   "originalTitle": "円山応挙",
+   "title": "마루야마 오쿄 — 리얼 너머로, 공간 혁명",
+   "originalTitle": "円山応挙 リアルの先へ 空間革命",
    "venue": "오사카시립미술관",
    "city": "오사카",
    "area": "덴노지",
    "start": "2027-02-06",
    "end": "2027-04-04",
    "genre": "jp",
-   "url": "https://www.museum.or.jp/event/124945"
+   "url": "https://www.osaka-art-museum.jp/special_exhibition/10344",
+   "venueUrl": "https://www.osaka-art-museum.jp/"
   },
   {
    "id": "kyocera-zarka",
@@ -1084,7 +1290,50 @@
    "start": "2027-02-06",
    "end": "2027-05-05",
    "genre": "cont",
-   "tentative": true
+   "tentative": true,
+   "url": "https://kyotocity-kyocera.museum/exhibition/20270206-20270505",
+   "venueUrl": "https://kyotocity-kyocera.museum/"
+  },
+  {
+   "id": "ichigokan-montmartre",
+   "title": "몽마르트르 — 로트레크, 쉬잔 발라동과 파리의 알려지지 않은 화가들",
+   "originalTitle": "モンマルトル：ロートレック、シュザンヌ・ヴァラドンとパリの知られざる画家たち（仮称）",
+   "venue": "미쓰비시 이치고칸 미술관",
+   "city": "도쿄",
+   "area": "마루노우치·교바시",
+   "start": "2027-02-19",
+   "end": "2027-05-23",
+   "genre": "west",
+   "tentative": true,
+   "url": "https://mimt.jp/exhibition/#montmartre",
+   "venueUrl": "https://mimt.jp/"
+  },
+  {
+   "id": "tsg-yamaga",
+   "title": "생탄 140년 염직가 야마가 세이카",
+   "originalTitle": "生誕140年 染織家 山鹿清華",
+   "venue": "도쿄 스테이션 갤러리",
+   "city": "도쿄",
+   "area": "마루노우치·교바시",
+   "start": "2027-02-20",
+   "end": "2027-04-11",
+   "genre": "craft",
+   "note": "교토시 교세라 미술관에서 순회해 와요.",
+   "url": "http://www.ejrcf.or.jp/gallery/exhibition.html#section03",
+   "venueUrl": "https://www.ejrcf.or.jp/gallery/"
+  },
+  {
+   "id": "craft-kintsugi",
+   "title": "긴쓰기 — KINTSUGI전",
+   "originalTitle": "金継ぎ ーKINTSUGIー 展",
+   "venue": "국립공예관",
+   "city": "가나자와",
+   "area": "히로사카",
+   "start": "2027-02-26",
+   "end": "2027-06-06",
+   "genre": "craft",
+   "url": "https://www.momat.go.jp/craft-museum/exhibitions/574",
+   "venueUrl": "https://www.momat.go.jp/craft-museum"
   }
  ]
 }
