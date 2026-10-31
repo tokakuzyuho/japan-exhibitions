@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13",
+ "updatedAt": "2026-10-31",
  "exhibitions": [
   {
    "id": "oyamazaki-monet",
@@ -28,18 +28,17 @@
    "venueUrl": "https://www.nmao.go.jp/"
   },
   {
-   "id": "tobikan-british-museum",
-   "title": "대영박물관 일본미술 컬렉션 백화요란 — 바다를 건넌 에도 회화",
-   "originalTitle": "大英博物館日本美術コレクション 百花繚乱～海を越えた江戸絵画",
-   "venue": "도쿄도미술관",
-   "city": "도쿄",
-   "area": "우에노",
-   "start": "2026-07-25",
-   "end": "2026-10-18",
-   "genre": "jp",
-   "note": "11월부터 오사카 나카노시마 미술관으로 순회해요.",
-   "url": "https://daiei-ten2026.exhibit.jp/",
-   "venueUrl": "https://www.tobikan.jp/"
+   "id": "yokohama-mohri",
+   "title": "모리 유코 Recompose — 제60회 베네치아 비엔날레 일본관 귀국전",
+   "originalTitle": "毛利悠子 Recompose ― 第60回ヴェネチア・ビエンナーレ日本館帰国展",
+   "venue": "요코하마미술관",
+   "city": "요코하마",
+   "area": "미나토미라이",
+   "start": "2026-07-24",
+   "end": "2026-11-23",
+   "genre": "cont",
+   "url": "https://yokohama.art.museum/exhibition/202607_mohriyuko/",
+   "venueUrl": "https://yokohama.art.museum/"
   },
   {
    "id": "yokohama-marie-antoinette",
@@ -55,6 +54,18 @@
    "venueUrl": "https://yokohama.art.museum/"
   },
   {
+   "id": "mingeikan-ryukyu",
+   "title": "창설 90주년 기념 류큐 왕국의 염직",
+   "originalTitle": "創設90年記念 琉球王国の染織 尚家関連品と護得久家伝来品",
+   "venue": "일본민예관",
+   "city": "도쿄",
+   "area": "고마바",
+   "start": "2026-08-22",
+   "end": "2026-11-03",
+   "genre": "craft",
+   "venueUrl": "https://mingeikan.or.jp/"
+  },
+  {
    "id": "2121-hojoki",
    "title": "방장기에 배우다 — 삶을 다시 엮는 작은 건축",
    "originalTitle": "方丈記に学ぶ –生きるを編み直す小さな建築–",
@@ -68,6 +79,19 @@
    "venueUrl": "https://www.2121designsight.jp/"
   },
   {
+   "id": "koiso-migishi",
+   "title": "탄생 120주년 미기시 세쓰코전",
+   "originalTitle": "特別展 生誕120年 三岸節子展",
+   "venue": "고베시립 고이소 기념미술관",
+   "city": "고베",
+   "area": "롯코아일랜드",
+   "start": "2026-08-29",
+   "end": "2026-11-08",
+   "genre": "jp",
+   "url": "https://www.city.kobe.lg.jp/a45010/kanko/bunka/bunkashisetsu/koisogallery/migishisetsuko120.html",
+   "venueUrl": "https://www.city.kobe.lg.jp/koisomuseum/"
+  },
+  {
    "id": "mot-tada",
    "title": "다다 미나미 — 빛, 늠름하게 흔들리다",
    "originalTitle": "多田美波―光、凛と ゆれる",
@@ -79,18 +103,6 @@
    "genre": "cont",
    "url": "https://www.mot-art-museum.jp/exhibitions/Tada-Minami/",
    "venueUrl": "https://www.mot-art-museum.jp/"
-  },
-  {
-   "id": "senoku-kyoto-kanei",
-   "title": "특별전 간에이 행행과 꽃의 수도의 문화인",
-   "originalTitle": "特別展 寛永行幸と花の都の文化びと",
-   "venue": "센오쿠하쿠코칸",
-   "city": "교토",
-   "area": "시시가타니",
-   "start": "2026-09-05",
-   "end": "2026-10-18",
-   "genre": "jp",
-   "venueUrl": "https://sen-oku.or.jp/kyoto/"
   },
   {
    "id": "seikado-kawai",
@@ -145,18 +157,6 @@
    "venueUrl": "https://www.kanazawa21.jp/"
   },
   {
-   "id": "eki-uno",
-   "title": "우노 아키라전 AQUIRAX UNO",
-   "originalTitle": "宇野亞喜良展 AQUIRAX UNO",
-   "venue": "미술관 「에키」 KYOTO",
-   "city": "교토",
-   "area": "교토역",
-   "start": "2026-09-09",
-   "end": "2026-10-25",
-   "genre": "cont",
-   "url": "https://www.mistore.jp/store/kyoto/museum/event_list/event19.html"
-  },
-  {
    "id": "nact-louvre-renaissance",
    "title": "루브르 박물관전 르네상스",
    "originalTitle": "ルーヴル美術館展 ルネサンス",
@@ -183,6 +183,19 @@
    "venueUrl": "https://artmuseum.pref.hokkaido.lg.jp/knb/"
   },
   {
+   "id": "hosomi-ryokan",
+   "title": "료칸 — 그 사람과 선",
+   "originalTitle": "特別展 良寛さん―その人と禅―",
+   "venue": "호소미 미술관",
+   "city": "교토",
+   "area": "오카자키",
+   "start": "2026-09-12",
+   "end": "2026-11-08",
+   "genre": "jp",
+   "url": "https://www.emuseum.or.jp/exhibition/ex094/index.html",
+   "venueUrl": "https://www.emuseum.or.jp/"
+  },
+  {
    "id": "mitsui-chawan",
    "title": "관장 다완 100선 — 국보부터 수제 다완까지",
    "originalTitle": "館蔵の茶碗100撰―国宝から手造茶碗まで―",
@@ -194,6 +207,18 @@
    "genre": "craft",
    "url": "https://www.mitsui-museum.jp/exhibition/index.html",
    "venueUrl": "https://www.mitsui-museum.jp/"
+  },
+  {
+   "id": "kobefashion-mizuki",
+   "title": "미즈키 시게루 혼의 만화전",
+   "originalTitle": "水木しげる 魂の漫画展",
+   "venue": "고베 패션 미술관",
+   "city": "고베",
+   "area": "롯코아일랜드",
+   "start": "2026-09-12",
+   "end": "2026-11-29",
+   "genre": "cont",
+   "venueUrl": "https://www.fashionmuseum.jp/"
   },
   {
    "id": "hokkaido-ways-of-making",
@@ -220,6 +245,19 @@
    "genre": "jp",
    "url": "https://toyotomi2026.jp/",
    "venueUrl": "https://www.edo-tokyo-museum.or.jp/"
+  },
+  {
+   "id": "hokusai-best",
+   "title": "개관 10주년 기념 베스트 오브 스미다 호쿠사이 미술관",
+   "originalTitle": "開館10周年記念 特別展 ベスト オブ すみだ北斎美術館―隅田川両岸景色図巻と名品―",
+   "venue": "스미다 호쿠사이 미술관",
+   "city": "도쿄",
+   "area": "료고쿠",
+   "start": "2026-09-15",
+   "end": "2026-11-23",
+   "genre": "jp",
+   "url": "https://hokusai-museum.jp/best/",
+   "venueUrl": "https://hokusai-museum.jp/"
   },
   {
    "id": "21c-new-circuit",
@@ -261,19 +299,6 @@
    "venueUrl": "https://www.pen-kanagawa.ed.jp/kanazawabunko/"
   },
   {
-   "id": "tsg-suikoden",
-   "title": "수호전 — 호걸 108인, 그 이미지의 확장",
-   "originalTitle": "水滸伝",
-   "venue": "도쿄 스테이션 갤러리",
-   "city": "도쿄",
-   "area": "마루노우치·교바시",
-   "start": "2026-09-19",
-   "end": "2026-11-08",
-   "genre": "jp",
-   "url": "http://www.ejrcf.or.jp/gallery/exhibition/202609_suikoden.html",
-   "venueUrl": "https://www.ejrcf.or.jp/gallery/"
-  },
-  {
    "id": "ishikawa-rekihaku-costume",
    "title": "국립민족학박물관 컬렉션 — 세계의 귀여운 의상",
    "originalTitle": "国立民族学博物館コレクション 世界のかわいい衣装",
@@ -287,6 +312,19 @@
    "venueUrl": "https://ishikawa-rekihaku.jp/"
   },
   {
+   "id": "tsg-suikoden",
+   "title": "수호전 — 호걸 108인, 그 이미지의 확장",
+   "originalTitle": "水滸伝",
+   "venue": "도쿄 스테이션 갤러리",
+   "city": "도쿄",
+   "area": "마루노우치·교바시",
+   "start": "2026-09-19",
+   "end": "2026-11-08",
+   "genre": "jp",
+   "url": "http://www.ejrcf.or.jp/gallery/exhibition/202609_suikoden.html",
+   "venueUrl": "https://www.ejrcf.or.jp/gallery/"
+  },
+  {
    "id": "bunpaku-kanei",
    "title": "특별전 간에이 — 태평이 기른 아름다움",
    "originalTitle": "特別展「寛永 太平がはぐくむ美」",
@@ -298,6 +336,58 @@
    "genre": "jp",
    "url": "https://www.bunpaku.or.jp/exhi_special_post/20260919-1115/",
    "venueUrl": "https://www.bunpaku.or.jp/"
+  },
+  {
+   "id": "narapref-nihonga",
+   "title": "시대를 넘어 — 일본화의 행방",
+   "originalTitle": "特別展「時代を越えて～日本画のゆくえ」",
+   "venue": "나라현립미술관",
+   "city": "나라",
+   "area": "나라공원",
+   "start": "2026-09-19",
+   "end": "2026-11-15",
+   "genre": "jp",
+   "url": "https://www.pref.nara.lg.jp/n044/11842.html",
+   "venueUrl": "https://www.pref.nara.lg.jp/n044/"
+  },
+  {
+   "id": "narapref-tomimoto",
+   "title": "탄생 140주년 도미모토 겐키치와 쇼와",
+   "originalTitle": "昭和100年企画 新収蔵記念/生誕140年 富本憲吉と昭和",
+   "venue": "나라현립미술관",
+   "city": "나라",
+   "area": "나라공원",
+   "start": "2026-09-19",
+   "end": "2026-11-15",
+   "genre": "craft",
+   "url": "https://www.pref.nara.lg.jp/n044/p105025.html",
+   "venueUrl": "https://www.pref.nara.lg.jp/n044/"
+  },
+  {
+   "id": "ryukoku-fumonji",
+   "title": "모두 오세요! 히가시미카와의 후몬지",
+   "originalTitle": "秋季企画展「みんなおいでん！東三河の普門寺さん」",
+   "venue": "류코쿠 뮤지엄",
+   "city": "교토",
+   "area": "니시혼간지 앞",
+   "start": "2026-09-19",
+   "end": "2026-11-23",
+   "genre": "jp",
+   "url": "https://museum.ryukoku.ac.jp/exhibition/2026/fumonji/",
+   "venueUrl": "https://museum.ryukoku.ac.jp/"
+  },
+  {
+   "id": "shoto-rojo",
+   "title": "길 위, 방해가 되나요?",
+   "originalTitle": "路上、お邪魔ですか？ ROJŌ [shared ground] am i in your way?",
+   "venue": "시부야구립 쇼토 미술관",
+   "city": "도쿄",
+   "area": "쇼토",
+   "start": "2026-09-19",
+   "end": "2026-11-23",
+   "genre": "cont",
+   "url": "https://shoto-museum.jp/exhibitions/213rojo/",
+   "venueUrl": "https://shoto-museum.jp/"
   },
   {
    "id": "nagoyacity-gogh",
@@ -339,6 +429,32 @@
    "venueUrl": "https://kyotocity-kyocera.museum/"
   },
   {
+   "id": "yokoo-cip2",
+   "title": "Curators in Panic 2 — 요코오 다다노리전, 학예원 위기일발?",
+   "originalTitle": "Curators in Panic 2 ～横尾忠則展 学芸員危機二髪?",
+   "venue": "요코오 다다노리 현대미술관",
+   "city": "고베",
+   "area": "나다",
+   "start": "2026-09-19",
+   "end": "2026-12-27",
+   "genre": "cont",
+   "url": "https://ytmoca.jp/en/?p=3741",
+   "venueUrl": "https://ytmoca.jp/"
+  },
+  {
+   "id": "faam-south-asia",
+   "title": "아시아 미술 걷는 법 남아시아 특별편 — 대립 너머로, 빛의 물줄기를 따라",
+   "originalTitle": "特別展 アジア美術の歩き方　南アジア特別編　対立の先へ―光の水脈をめぐる旅",
+   "venue": "후쿠오카 아시아 미술관",
+   "city": "후쿠오카",
+   "area": "하카타 리버레인",
+   "start": "2026-09-19",
+   "end": "2027-01-11",
+   "genre": "cont",
+   "url": "https://faam.city.fukuoka.lg.jp/exhibition/26076/",
+   "venueUrl": "https://faam.city.fukuoka.lg.jp/"
+  },
+  {
    "id": "fukuda-chigo",
    "title": "사랑의 형태 — 환상의 춘화 「지고조시」 공개",
    "originalTitle": "愛のカタチ ―幻の春画《稚児草紙》公開―",
@@ -353,22 +469,9 @@
    "venueUrl": "https://fukuda-art-museum.jp/"
   },
   {
-   "id": "ishikawa-hasuda",
-   "title": "하스다 슈고로 — 세계를 여는 창",
-   "originalTitle": "蓮田修吾郎 －世界を拓く窓",
-   "venue": "이시카와현립미술관",
-   "city": "가나자와",
-   "area": "겐로쿠엔",
-   "start": "2026-09-20",
-   "end": "2026-10-25",
-   "genre": "craft",
-   "url": "https://www.ishibi.pref.ishikawa.jp/exhibition/hasuda/",
-   "venueUrl": "https://www.ishibi.pref.ishikawa.jp/"
-  },
-  {
    "id": "sompo-marquet",
    "title": "개관 50주년 기념 알베르 마르케전",
-   "originalTitle": "開館50周年記念 アルベール・マルケ展",
+   "originalTitle": "開館50周年記念 生誕150年 アルベール・マルケ展",
    "venue": "SOMPO 미술관",
    "city": "도쿄",
    "area": "신주쿠",
@@ -377,6 +480,20 @@
    "genre": "west",
    "url": "https://www.sompo-museum.org/exhibitions/2025/albertmarquet/",
    "venueUrl": "https://www.sompo-museum.org/"
+  },
+  {
+   "id": "minpaku-saru",
+   "title": "사루강에 살다 — 사룬쿠르의 근대",
+   "originalTitle": "特別展「沙流川に生きる ――サルンクㇽの近代」",
+   "venue": "국립민족학박물관",
+   "city": "오사카",
+   "area": "스이타(반파쿠 기념공원)",
+   "start": "2026-09-25",
+   "end": "2026-12-15",
+   "genre": "sci",
+   "note": "아이누 공예품전",
+   "url": "https://www.minpaku.ac.jp/ai1ec_event/69685",
+   "venueUrl": "https://www.minpaku.ac.jp/"
   },
   {
    "id": "gakushuin-banquet",
@@ -392,6 +509,19 @@
    "venueUrl": "https://www.museum.univ.gakushuin.ac.jp/"
   },
   {
+   "id": "hakutsuru-autumn2026",
+   "title": "추계전 「선회하는 미·광채의 미 — 현란한 동양 금석공예」",
+   "originalTitle": "本館「旋回する美・光彩の美 ―めくるめく東洋金石工芸」 新館「アナトリアのメダリオン・ランプ文」",
+   "venue": "하쿠쓰루 미술관",
+   "city": "고베",
+   "area": "스미요시",
+   "start": "2026-09-26",
+   "end": "2026-12-13",
+   "genre": "craft",
+   "note": "신관은 아나톨리아 카펫전",
+   "venueUrl": "https://www.hakutsuru-museum.org/"
+  },
+  {
    "id": "tnm-hiroshige",
    "title": "우타가와 히로시게 — 에도의 베스트 앵글",
    "originalTitle": "歌川広重 江戸のベストアングル",
@@ -403,6 +533,32 @@
    "genre": "jp",
    "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=2759",
    "venueUrl": "https://www.tnm.jp/"
+  },
+  {
+   "id": "top-duet",
+   "title": "듀엣 — 아시안 컨템퍼러리",
+   "originalTitle": "デュエット――アジアン・コンテンポラリー",
+   "venue": "도쿄도사진미술관",
+   "city": "도쿄",
+   "area": "에비스",
+   "start": "2026-09-30",
+   "end": "2027-01-17",
+   "genre": "cont",
+   "url": "https://topmuseum.jp/exhibition/5421/",
+   "venueUrl": "https://topmuseum.jp/"
+  },
+  {
+   "id": "top-shinshin23",
+   "title": "다시 조립하다 — 일본의 신진작가 vol.23",
+   "originalTitle": "ふたたび くみたてる 日本の新進作家 vol.23",
+   "venue": "도쿄도사진미술관",
+   "city": "도쿄",
+   "area": "에비스",
+   "start": "2026-09-30",
+   "end": "2027-01-17",
+   "genre": "cont",
+   "url": "https://topmuseum.jp/exhibition/5423/",
+   "venueUrl": "https://topmuseum.jp/"
   },
   {
    "id": "nagoya-token-chokoku",
@@ -431,17 +587,16 @@
    "venueUrl": "https://www.hpam.jp/"
   },
   {
-   "id": "kyocera-zen-ghibli",
-   "title": "선과 지브리",
-   "originalTitle": "禅とジブリ",
-   "venue": "교토시 교세라 미술관",
-   "city": "교토",
-   "area": "오카자키",
+   "id": "eisei-hakuin",
+   "title": "하쿠인 월드 — 호소카와 모리타쓰 컬렉션의 시작",
+   "originalTitle": "永青文庫・早稲田大学會津八一記念博物館共同企画 白隠ワールド－細川護立コレクションのはじまり－",
+   "venue": "에이세이분코 미술관",
+   "city": "도쿄",
+   "area": "메지로다이",
    "start": "2026-10-03",
-   "end": "2026-12-06",
-   "genre": "cont",
-   "url": "https://kyotocity-kyocera.museum/exhibition/20261003-20261206",
-   "venueUrl": "https://kyotocity-kyocera.museum/"
+   "end": "2026-11-29",
+   "genre": "jp",
+   "venueUrl": "https://www.eiseibunko.com/"
   },
   {
    "id": "harukas-wyeth",
@@ -455,6 +610,19 @@
    "genre": "west",
    "url": "https://www.aham.jp/exhibition/future/wyeth/",
    "venueUrl": "https://www.aham.jp/"
+  },
+  {
+   "id": "kyocera-zen-ghibli",
+   "title": "선과 지브리",
+   "originalTitle": "禅とジブリ",
+   "venue": "교토시 교세라 미술관",
+   "city": "교토",
+   "area": "오카자키",
+   "start": "2026-10-03",
+   "end": "2026-12-06",
+   "genre": "cont",
+   "url": "https://kyotocity-kyocera.museum/exhibition/20261003-20261206",
+   "venueUrl": "https://kyotocity-kyocera.museum/"
   },
   {
    "id": "takenaka-wood",
@@ -574,6 +742,19 @@
    "venueUrl": "https://www.tokugawa-art-museum.jp/"
   },
   {
+   "id": "osakacity-mindai",
+   "title": "약동하는 명대의 서예 — 타이베이 허촹스 컬렉션의 지보",
+   "originalTitle": "躍動する明代の書－台北・何創時コレクションの至宝",
+   "venue": "오사카시립미술관",
+   "city": "오사카",
+   "area": "덴노지",
+   "start": "2026-10-09",
+   "end": "2026-12-20",
+   "genre": "jp",
+   "url": "https://www.osaka-art-museum.jp/special_exhibition/mindai",
+   "venueUrl": "https://www.osaka-art-museum.jp/"
+  },
+  {
    "id": "craft-design-chronicle",
    "title": "디자인 크로니클전 — 무엇이 생겨나고, 무엇이 바뀌었나",
    "originalTitle": "デザイン・クロニクル展 なにが生まれて、なにが変わった？",
@@ -587,6 +768,43 @@
    "venueUrl": "https://www.momat.go.jp/craft-museum"
   },
   {
+   "id": "nakamura-chadogu",
+   "title": "개관 60주년 기념 특별전 가나자와 연고의 다도구 — 에도에서 현대로",
+   "originalTitle": "開館60周年記念特別展「金沢ゆかりの茶道具 ～江戸から現代へ～」",
+   "venue": "가나자와시립 나카무라 기념 미술관",
+   "city": "가나자와",
+   "area": "혼다마치",
+   "start": "2026-10-10",
+   "end": "2026-12-06",
+   "genre": "craft",
+   "venueUrl": "https://www.kanazawa-museum.jp/nakamura/"
+  },
+  {
+   "id": "yamatane-best1",
+   "title": "더 베스트 오브 야마타네 컬렉션 Ⅰ — 요코야마 다이칸, 다케우치 세이호부터 우에무라 쇼엔, 하야미 교슈까지",
+   "originalTitle": "開館60周年記念特別展 ザ・ベスト・オブ・山種コレクションⅠ －横山大観、竹内栖鳳から上村松園、速水御舟へ－",
+   "venue": "야마타네 미술관",
+   "city": "도쿄",
+   "area": "히로오",
+   "start": "2026-10-10",
+   "end": "2026-12-06",
+   "genre": "jp",
+   "venueUrl": "https://www.yamatane-museum.jp/"
+  },
+  {
+   "id": "hokkaido-museum-bones",
+   "title": "대해부! 당신이 모르는 뼈의 세계",
+   "originalTitle": "第28回企画テーマ展「大解剖！あなたの知らない骨の世界」",
+   "venue": "홋카이도박물관",
+   "city": "삿포로",
+   "area": "아쓰베쓰(노포로 삼림공원)",
+   "start": "2026-10-10",
+   "end": "2026-12-13",
+   "genre": "sci",
+   "url": "https://www.hm.pref.hokkaido.lg.jp/exhibition/special/26033/",
+   "venueUrl": "https://www.hm.pref.hokkaido.lg.jp/"
+  },
+  {
    "id": "kobecity-moomin",
    "title": "특별전 토베와 무민전 — 소중한 것을 찾아서",
    "originalTitle": "特別展 トーベとムーミン展～とっておきのものを探しに～",
@@ -598,6 +816,19 @@
    "genre": "cont",
    "url": "https://www.kobecitymuseum.jp/exhibition/detail?exhibition=392",
    "venueUrl": "https://www.kobecitymuseum.jp/"
+  },
+  {
+   "id": "kosetsu-figures",
+   "title": "매혹의 인물 표현 — 라 투르, 틴토레토, 밀레",
+   "originalTitle": "東京富士美術館所蔵「魅惑の人物表現――人のかたち、心のもよう ジョルジュ・ド・ラ・トゥール、ティントレット、ジャン＝フランソワ・ミレー」",
+   "venue": "나카노시마 고세쓰 미술관",
+   "city": "오사카",
+   "area": "나카노시마",
+   "start": "2026-10-10",
+   "end": "2026-12-20",
+   "genre": "west",
+   "note": "도쿄후지미술관 소장품전",
+   "venueUrl": "https://www.kosetsu-museum.or.jp/nakanoshima/"
   },
   {
    "id": "nakanoshima-nichiyobijutsukan",
@@ -652,6 +883,19 @@
    "venueUrl": "https://artpark.or.jp/"
   },
   {
+   "id": "fcm-1999",
+   "title": "1999전 — 존재하지 않는 그날의 기억",
+   "originalTitle": "特別展 1999展 - 存在しないあの日の記憶 –",
+   "venue": "후쿠오카시박물관",
+   "city": "후쿠오카",
+   "area": "모모치하마",
+   "start": "2026-10-10",
+   "end": "2027-01-11",
+   "genre": "cont",
+   "url": "https://1999-kioku.jp/fukuoka/",
+   "venueUrl": "https://museum.city.fukuoka.jp/"
+  },
+  {
    "id": "tnm-daitokuji",
    "title": "특별전 다이토쿠지 — 본조무쌍의 선원",
    "originalTitle": "特別展「大徳寺 本朝無双之禅苑」",
@@ -665,6 +909,19 @@
    "venueUrl": "https://www.tnm.jp/"
   },
   {
+   "id": "domoto-muses",
+   "title": "개관 60주년 기념 특별기획전 Ⅱ 모델이 된 뮤즈들",
+   "originalTitle": "〈開館60周年記念〉特別企画展Ⅱ モデルになったミューズたち",
+   "venue": "교토부립 도모토 인쇼 미술관",
+   "city": "교토",
+   "area": "기누가사",
+   "start": "2026-10-15",
+   "end": "2026-12-20",
+   "genre": "jp",
+   "url": "https://insho-domoto.com/exhibitions/3041/",
+   "venueUrl": "https://insho-domoto.com/"
+  },
+  {
    "id": "shiodome-yoshida",
    "title": "요시다 쇼야의 디자인 — 신작 민예운동이 꿈꾼 미래",
    "originalTitle": "吉田璋也のデザイン― 新作民藝運動がめざした未来",
@@ -674,6 +931,7 @@
    "start": "2026-10-15",
    "end": "2026-12-20",
    "genre": "craft",
+   "url": "https://panasonic.co.jp/ew/museum/exhibition/26/261015/",
    "venueUrl": "https://panasonic.co.jp/ew/museum/"
   },
   {
@@ -690,19 +948,6 @@
    "venueUrl": "https://ch.kanagawa-museum.jp/"
   },
   {
-   "id": "operacity-seeds",
-   "title": "씨앗과 뿌리 — 도시를 일구는 법",
-   "originalTitle": "種と根っこ ─ 都市の耕し方",
-   "venue": "도쿄 오페라시티 아트 갤러리",
-   "city": "도쿄",
-   "area": "하쓰다이",
-   "start": "2026-10-17",
-   "end": "2026-12-20",
-   "genre": "cont",
-   "url": "https://www.operacity.jp/ag/exh303/",
-   "venueUrl": "https://www.operacity.jp/ag/"
-  },
-  {
    "id": "fam-chintz",
    "title": "특별전 카룬 타카르 컬렉션 — 인도 사라사, 세계를 도는 이야기",
    "originalTitle": "特別展 カルン・タカール・コレクション インド更紗 世界をめぐる物語",
@@ -714,6 +959,19 @@
    "genre": "craft",
    "url": "https://www.fukuoka-art-museum.jp/exhibition/chintz_a_global_story_the_karunthakar_collection/",
    "venueUrl": "https://www.fukuoka-art-museum.jp/"
+  },
+  {
+   "id": "operacity-seeds",
+   "title": "씨앗과 뿌리 — 도시를 일구는 법",
+   "originalTitle": "種と根っこ ─ 都市の耕し方",
+   "venue": "도쿄 오페라시티 아트 갤러리",
+   "city": "도쿄",
+   "area": "하쓰다이",
+   "start": "2026-10-17",
+   "end": "2026-12-20",
+   "genre": "cont",
+   "url": "https://www.operacity.jp/ag/exh303/",
+   "venueUrl": "https://www.operacity.jp/ag/"
   },
   {
    "id": "ichigokan-fontanesi",
@@ -741,6 +999,19 @@
    "note": "1기는 2027년 2월 14일까지예요. 이후 작품을 바꿔 6월까지 이어져요.",
    "url": "https://www.shokoku-ji.jp/museum/exhibition/okyo-jakuchu2026/",
    "venueUrl": "https://www.shokoku-ji.jp/museum/"
+  },
+  {
+   "id": "fpam-eric-carle",
+   "title": "에릭 칼전 — 시작은 배고픈 애벌레",
+   "originalTitle": "エリック・カール展　はじまりは、はらぺこあおむし",
+   "venue": "후쿠오카현립미술관",
+   "city": "후쿠오카",
+   "area": "덴진(스자키공원)",
+   "start": "2026-10-23",
+   "end": "2026-12-20",
+   "genre": "cont",
+   "url": "https://fukuoka-kenbi.jp/exhibition/2026/0701_18474/",
+   "venueUrl": "https://fukuoka-kenbi.jp/"
   },
   {
    "id": "momat-yumeji",
@@ -772,7 +1043,7 @@
   {
    "id": "nezu-bugaku",
    "title": "무악 장속",
-   "originalTitle": "舞楽装束",
+   "originalTitle": "特別展 舞楽装束 受け継がれる染織の美",
    "venue": "네즈 미술관",
    "city": "도쿄",
    "area": "오모테산도",
@@ -780,6 +1051,33 @@
    "end": "2026-11-23",
    "genre": "craft",
    "venueUrl": "https://www.nezu-muse.or.jp/"
+  },
+  {
+   "id": "sogo-yamamoto-akane",
+   "title": "야마모토 아카네 「KIRIKANE Sculpture」",
+   "originalTitle": "山本茜「KIRIKANE Sculpture」",
+   "venue": "소고 미술관",
+   "city": "요코하마",
+   "area": "요코하마역",
+   "start": "2026-10-24",
+   "end": "2026-12-06",
+   "genre": "craft",
+   "url": "https://sogo-museum.jp/exhibitions/details.jsp?id=2261",
+   "venueUrl": "https://sogo-museum.jp/"
+  },
+  {
+   "id": "yamatobunkakan-hangzhou",
+   "title": "지상의 천당 항저우와 오월국 — 바다를 건넌 신앙과 미",
+   "originalTitle": "特別展 地上の天堂 杭州と呉越国――渡海する信仰と美",
+   "venue": "야마토분카칸",
+   "city": "나라",
+   "area": "가쿠엔마에",
+   "start": "2026-10-24",
+   "end": "2026-12-06",
+   "genre": "jp",
+   "note": "전기 10/24–11/15, 후기 11/17–12/6",
+   "url": "https://www.kintetsu-g-hd.co.jp/culture/yamato/exhibition/tenjou-paradise.html",
+   "venueUrl": "https://www.kintetsu-g-hd.co.jp/culture/yamato/"
   },
   {
    "id": "hmoca-senzaki",
@@ -793,6 +1091,30 @@
    "genre": "cont",
    "url": "https://www.hiroshima-moca.jp/exhibition/senzakichieo",
    "venueUrl": "https://www.hiroshima-moca.jp/"
+  },
+  {
+   "id": "hanzomon-unkei",
+   "title": "아시카가 가바사키데라와 운케이 — 두 구의 대일여래상",
+   "originalTitle": "秋の特別展「足利樺崎寺と運慶 ―二体の大日如来像―」",
+   "venue": "한조몬 뮤지엄",
+   "city": "도쿄",
+   "area": "한조몬",
+   "start": "2026-10-24",
+   "end": "2026-12-20",
+   "genre": "jp",
+   "venueUrl": "https://www.hanzomonmuseum.jp/"
+  },
+  {
+   "id": "touken-kotetsu",
+   "title": "고테쓰와 스케히로",
+   "originalTitle": "虎徹と助広",
+   "venue": "도검박물관",
+   "city": "도쿄",
+   "area": "료고쿠",
+   "start": "2026-10-24",
+   "end": "2026-12-20",
+   "genre": "craft",
+   "venueUrl": "https://www.touken.or.jp/museum/"
   },
   {
    "id": "momak-jewelry",
@@ -847,6 +1169,18 @@
    "venueUrl": "https://www.nmwa.go.jp/"
   },
   {
+   "id": "gotoh-muromachi",
+   "title": "무로마치 정취의 풍경 — 빛나는 사계와 렌가 가이시의 아름다움",
+   "originalTitle": "特別展 室町ごころの風景―光り輝く四季と連歌懐紙の美―",
+   "venue": "고토 미술관",
+   "city": "도쿄",
+   "area": "가미노게",
+   "start": "2026-10-27",
+   "end": "2026-12-06",
+   "genre": "jp",
+   "venueUrl": "https://www.gotoh-museum.or.jp/"
+  },
+  {
    "id": "nact-shojo-manga",
    "title": "소녀만화 인피니티 — 하기오 모토 × 야마기시 료코 × 야마토 와키 3인전",
    "originalTitle": "少女漫画・インフィニティ 萩尾望都×山岸凉子×大和和紀 三人展",
@@ -871,6 +1205,31 @@
    "genre": "jp",
    "url": "https://apmoa.museum/exhibition/bigelow",
    "venueUrl": "https://apmoa.museum/"
+  },
+  {
+   "id": "senoku-shunsui100",
+   "title": "서거 100주년 기념 스미토모 슌스이 — 행복한 스미토모 근대미술 컬렉션",
+   "originalTitle": "特別展 没後100年記念 住友春翠－仕合せの住友近代美術コレクション",
+   "venue": "센오쿠하쿠코칸",
+   "city": "교토",
+   "area": "시시가타니",
+   "start": "2026-10-31",
+   "end": "2026-12-20",
+   "genre": "jp",
+   "url": "https://sen-oku.or.jp/program/202610_shunsui100/",
+   "venueUrl": "https://sen-oku.or.jp/kyoto/"
+  },
+  {
+   "id": "nerima-yuasa",
+   "title": "유아사 에보시와 전후 아방가르드의 변신 우화집",
+   "originalTitle": "ユアサエボシと戦後アヴァンギャルドの変身寓話集",
+   "venue": "네리마구립미술관",
+   "city": "도쿄",
+   "area": "나카무라바시",
+   "start": "2026-10-31",
+   "end": "2026-12-27",
+   "genre": "cont",
+   "venueUrl": "https://www.neribun.or.jp/museum.html"
   },
   {
    "id": "kyuhaku-himiko",
@@ -914,26 +1273,40 @@
   {
    "id": "mori-mariko-mori",
    "title": "모리 마리코전",
-   "originalTitle": "森万里子展",
+   "originalTitle": "森万里子：燦燦",
    "venue": "모리미술관",
    "city": "도쿄",
    "area": "롯폰기",
    "start": "2026-10-31",
    "end": "2027-03-28",
    "genre": "cont",
+   "url": "https://www.mori.art.museum/jp/exhibitions/marikomori/index.html",
    "venueUrl": "https://www.mori.art.museum/jp/"
+  },
+  {
+   "id": "21c-keisho",
+   "title": "오늘에서 내일로 — 작품을 계승한다는 것",
+   "originalTitle": "今日から明日へ 作品を継承すること",
+   "venue": "가나자와 21세기 미술관",
+   "city": "가나자와",
+   "area": "히로사카",
+   "start": "2026-10-31",
+   "end": "2027-04-18",
+   "genre": "cont",
+   "url": "https://www.kanazawa21.jp/data_list.php?g=65&d=1853",
+   "venueUrl": "https://www.kanazawa21.jp/"
   },
   {
    "id": "senoku-tokyo-karamono",
    "title": "특별전 가라모노 탄생 — 다도 디자인의 원류",
-   "originalTitle": "特別展 唐物誕生 ―茶の湯デザインの源流をさぐる（仮）",
+   "originalTitle": "特別展 唐物誕生 ―茶の湯デザインの源流をさぐる",
    "venue": "센오쿠하쿠코칸 도쿄",
    "city": "도쿄",
    "area": "롯폰기",
    "start": "2026-11-03",
    "end": "2026-12-13",
    "genre": "craft",
-   "tentative": true,
+   "url": "https://sen-oku.or.jp/program/t_202611_karamono/",
    "venueUrl": "https://sen-oku.or.jp/tokyo/"
   },
   {
@@ -948,6 +1321,33 @@
    "genre": "jp",
    "url": "https://shozokan.nich.go.jp/feature/grand-opening/beauty/",
    "venueUrl": "https://shozokan.nich.go.jp/"
+  },
+  {
+   "id": "tcv-petitprince",
+   "title": "어린 왕자 — 소중한 것을 찾아 떠나는 하늘 여행",
+   "originalTitle": "フランス刊行80周年記念『星の王子さま　大切なものを探しに空の旅へ』",
+   "venue": "도쿄 시티뷰",
+   "city": "도쿄",
+   "area": "롯폰기",
+   "start": "2026-11-13",
+   "end": "2027-02-14",
+   "genre": "cont",
+   "url": "https://tcv.roppongihills.com/jp/exhibitions/hoshinooujisama/index.html",
+   "venueUrl": "https://tcv.roppongihills.com/"
+  },
+  {
+   "id": "tokugawa-genji-emaki",
+   "title": "국보 겐지모노가타리 에마키 「요코부에」「야도리기 2」 특별 공개",
+   "originalTitle": "国宝 源氏物語絵巻 横笛・宿木（二）",
+   "venue": "도쿠가와 미술관",
+   "city": "나고야",
+   "area": "히가시구(도쿠가와엔)",
+   "start": "2026-11-14",
+   "end": "2026-11-29",
+   "genre": "jp",
+   "note": "단기 특별 공개",
+   "url": "https://www.tokugawa-art-museum.jp/exhibitions/genji2026/",
+   "venueUrl": "https://www.tokugawa-art-museum.jp/"
   },
   {
    "id": "hmoca-bratislava",
@@ -976,6 +1376,20 @@
    "venueUrl": "https://www.tobikan.jp/"
   },
   {
+   "id": "tobikan-archives",
+   "title": "시작을 열다 — 도쿄도미술관의 100년",
+   "originalTitle": "東京都美術館開館100周年記念 はじまりをひらく 東京都美術館の100年",
+   "venue": "도쿄도미술관",
+   "city": "도쿄",
+   "area": "우에노",
+   "start": "2026-11-19",
+   "end": "2027-01-11",
+   "genre": "cont",
+   "note": "개관 100주년 아카이브전, 무료",
+   "url": "https://www.tobikan.jp/2026_archives/",
+   "venueUrl": "https://www.tobikan.jp/"
+  },
+  {
    "id": "tobikan-waysofreading",
    "title": "당신이 세계를 읽기 위해",
    "originalTitle": "東京都美術館開館100周年記念 あなたが世界を読むために",
@@ -989,6 +1403,18 @@
    "venueUrl": "https://www.tobikan.jp/"
   },
   {
+   "id": "kanazawabunko-tanei",
+   "title": "단에이 — 국보를 이어 온 쇼묘지 장로",
+   "originalTitle": "特別展 湛睿—国宝を繋いだ称名寺長老—",
+   "venue": "가나가와현립 가나자와문고",
+   "city": "요코하마",
+   "area": "가나자와핫케이",
+   "start": "2026-11-20",
+   "end": "2027-01-17",
+   "genre": "jp",
+   "venueUrl": "https://www.pen-kanagawa.ed.jp/kanazawabunko/"
+  },
+  {
    "id": "seikado-masks",
    "title": "THE MASKS — 가면에 매료된 사람들",
    "originalTitle": "THE MASKS 仮面に魅せられた人々",
@@ -998,7 +1424,21 @@
    "start": "2026-11-21",
    "end": "2027-01-17",
    "genre": "craft",
+   "url": "https://www.seikado.or.jp/xo_event/the-masks-%E4%BB%AE%E9%9D%A2%E3%81%AB%E9%AD%85%E3%81%9B%E3%82%89%E3%82%8C%E3%81%9F%E4%BA%BA%E3%80%85/",
    "venueUrl": "https://www.seikado.or.jp/"
+  },
+  {
+   "id": "hosomi-meissen",
+   "title": "거장 하인츠 베르너가 그린 메르헨 — 현대 마이센의 자기 예술",
+   "originalTitle": "巨匠ハインツ・ヴェルナーの描いた物語(メルヘン)―現代マイセンの磁器芸術―",
+   "venue": "호소미 미술관",
+   "city": "교토",
+   "area": "오카자키",
+   "start": "2026-11-21",
+   "end": "2027-01-31",
+   "genre": "craft",
+   "note": "순회전",
+   "venueUrl": "https://www.emuseum.or.jp/"
   },
   {
    "id": "tsg-astrup",
@@ -1026,6 +1466,19 @@
    "url": "https://tokyo.timburtonexhibition.com/"
   },
   {
+   "id": "bunpaku-nagaigo",
+   "title": "불멸의 힘 나가이 고 — 나가이 고 기념관 리바이벌",
+   "originalTitle": "令和6年能登半島地震復興祈念 不滅の力 永井豪 ―永井豪記念館リバイバル―",
+   "venue": "교토문화박물관",
+   "city": "교토",
+   "area": "가라스마오이케",
+   "start": "2026-11-28",
+   "end": "2027-01-11",
+   "genre": "cont",
+   "url": "https://nagaigo-eternalspirits-exh.com/",
+   "venueUrl": "https://www.bunpaku.or.jp/"
+  },
+  {
    "id": "edohaku-okyo",
    "title": "마루야마 오쿄 — 리얼 너머로, 공간 혁명",
    "originalTitle": "円山応挙 リアルの先へ 空間革命",
@@ -1038,6 +1491,19 @@
    "note": "2월부터 오사카시립미술관으로 순회해요.",
    "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/okyo/",
    "venueUrl": "https://www.edo-tokyo-museum.or.jp/"
+  },
+  {
+   "id": "setagaya-komai",
+   "title": "동판화가 고마이 데쓰로 — 손바닥 위에 펼쳐진 별자리처럼",
+   "originalTitle": "銅版画家・駒井哲郎 掌上にひろがる星座のように",
+   "venue": "세타가야미술관",
+   "city": "도쿄",
+   "area": "요가",
+   "start": "2026-11-28",
+   "end": "2027-01-31",
+   "genre": "jp",
+   "url": "https://www.setagayaartmuseum.or.jp/exhibition/special/detail.php?id=sp00231",
+   "venueUrl": "https://www.setagayaartmuseum.or.jp/"
   },
   {
    "id": "nmao-kotoba",
@@ -1055,7 +1521,7 @@
   {
    "id": "fam-cambodia",
    "title": "기획전 캄보디아의 염직",
-   "originalTitle": "企画展 カンボジアの染織",
+   "originalTitle": "企画展 カンボジアの染織　描かれた祈り",
    "venue": "후쿠오카시미술관",
    "city": "후쿠오카",
    "area": "오호리공원",
@@ -1076,6 +1542,32 @@
    "end": "2027-01-17",
    "genre": "craft",
    "venueUrl": "https://www.nezu-muse.or.jp/"
+  },
+  {
+   "id": "bunpaku-jimmy-onishi",
+   "title": "지미 오니시 「홈타운」 교토전",
+   "originalTitle": "ジミー大西「ホームタウン」京都展",
+   "venue": "교토문화박물관",
+   "city": "교토",
+   "area": "가라스마오이케",
+   "start": "2026-12-05",
+   "end": "2027-02-07",
+   "genre": "cont",
+   "url": "https://www.ytv.co.jp/jimmy-art/",
+   "venueUrl": "https://www.bunpaku.or.jp/"
+  },
+  {
+   "id": "shoto-funakoshi-naoki",
+   "title": "후나코시 나오키 — 보이지 않는 것에 형태를 부여하다",
+   "originalTitle": "舟越直木 見えないものに形をあたえる ―舟越家から生まれたもうひとりの異才―",
+   "venue": "시부야구립 쇼토 미술관",
+   "city": "도쿄",
+   "area": "쇼토",
+   "start": "2026-12-05",
+   "end": "2027-02-07",
+   "genre": "cont",
+   "tentative": true,
+   "venueUrl": "https://shoto-museum.jp/"
   },
   {
    "id": "ota-unknown-ukiyoe",
@@ -1102,6 +1594,19 @@
    "venueUrl": "https://www.mitsui-museum.jp/"
   },
   {
+   "id": "matsuzakaya-lautrec-mucha",
+   "title": "로트레크와 무하 — 파리 시대의 10년",
+   "originalTitle": "ロートレックとミュシャ パリ時代の10年",
+   "venue": "마쓰자카야 미술관",
+   "city": "나고야",
+   "area": "사카에",
+   "start": "2026-12-12",
+   "end": "2027-02-07",
+   "genre": "west",
+   "note": "순회전",
+   "venueUrl": "https://www.matsuzakaya.co.jp/nagoya/museum/"
+  },
+  {
    "id": "suntory-hokekyo",
    "title": "법화경의 미술 — 만든다는 것은 바란다는 것",
    "originalTitle": "法華経の美術――つくるとは、願うこと",
@@ -1113,6 +1618,31 @@
    "genre": "jp",
    "url": "https://www.suntory.co.jp/sma/exhibition/2026_4/index.html",
    "venueUrl": "https://www.suntory.co.jp/sma/"
+  },
+  {
+   "id": "yamatane-best2",
+   "title": "더 베스트 오브 야마타네 컬렉션 Ⅱ — 히가시야마 가이이, 히라야마 이쿠오부터 센주 히로시, 야마구치 아키라까지(가제)",
+   "originalTitle": "開館60周年記念特別展 ザ・ベスト・オブ・山種コレクションⅡ －東山魁夷、平山郁夫から千住博、山口晃へ－（仮称）",
+   "venue": "야마타네 미술관",
+   "city": "도쿄",
+   "area": "히로오",
+   "start": "2026-12-12",
+   "end": "2027-03-07",
+   "genre": "jp",
+   "tentative": true,
+   "venueUrl": "https://www.yamatane-museum.jp/"
+  },
+  {
+   "id": "hpam-fukutomi",
+   "title": "컬렉터 후쿠토미 다로의 눈 — 쇼와 카바레 왕이 사랑한 회화",
+   "originalTitle": "コレクター福富太郎の眼 昭和のキャバレー王が愛した絵画",
+   "venue": "히로시마현립미술관",
+   "city": "히로시마",
+   "area": "슛케이엔",
+   "start": "2026-12-15",
+   "end": "2027-02-07",
+   "genre": "jp",
+   "venueUrl": "https://www.hpam.jp/"
   },
   {
    "id": "kyocera-hakuin",
@@ -1154,6 +1684,32 @@
    "venueUrl": "https://www.aham.jp/"
   },
   {
+   "id": "kyuhaku-hatsune",
+   "title": "신춘 특별 공개 — 도쿠가와 미술관 소장 국보 하쓰네 조도",
+   "originalTitle": "新春特別公開「徳川美術館所蔵 国宝 初音の調度」",
+   "venue": "규슈국립박물관",
+   "city": "후쿠오카",
+   "area": "다자이후",
+   "start": "2027-01-01",
+   "end": "2027-01-31",
+   "genre": "craft",
+   "note": "4층 문화교류전시실 특별 공개",
+   "venueUrl": "https://www.kyuhaku.jp/"
+  },
+  {
+   "id": "tokugawa-shakyo",
+   "title": "고사경 — 기도의 미",
+   "originalTitle": "企画展「古写経 祈りの美」",
+   "venue": "도쿠가와 미술관",
+   "city": "나고야",
+   "area": "히가시구(도쿠가와엔)",
+   "start": "2027-01-05",
+   "end": "2027-01-31",
+   "genre": "jp",
+   "url": "https://www.tokugawa-art-museum.jp/exhibitions/%e7%a5%88%e3%82%8a%e3%81%ae%e7%be%8e/",
+   "venueUrl": "https://www.tokugawa-art-museum.jp/"
+  },
+  {
    "id": "tnm-ff40",
    "title": "파이널 판타지 40주년 기념전 — 끝없는 판타지의 세계",
    "originalTitle": "ファイナルファンタジー40周年記念展「終わりなきファンタジーの世界」",
@@ -1165,6 +1721,18 @@
    "genre": "cont",
    "url": "https://www.jp.square-enix.com/ff40th/exhibition/",
    "venueUrl": "https://www.tnm.jp/"
+  },
+  {
+   "id": "sompo-togo",
+   "title": "탄생 130주년 도고 세이지전",
+   "originalTitle": "開館50周年記念 生誕130年 東郷青児展",
+   "venue": "SOMPO 미술관",
+   "city": "도쿄",
+   "area": "신주쿠",
+   "start": "2027-01-09",
+   "end": "2027-02-21",
+   "genre": "jp",
+   "venueUrl": "https://www.sompo-museum.org/"
   },
   {
    "id": "nakanoshima-women100",
@@ -1180,6 +1748,58 @@
    "venueUrl": "https://nakka-art.jp/"
   },
   {
+   "id": "hmoca-bird",
+   "title": "미술 탐조",
+   "originalTitle": "美術探鳥",
+   "venue": "히로시마시 현대미술관",
+   "city": "히로시마",
+   "area": "히지야마",
+   "start": "2027-01-09",
+   "end": "2027-04-11",
+   "genre": "cont",
+   "venueUrl": "https://www.hiroshima-moca.jp/"
+  },
+  {
+   "id": "hokkaido-moji-art",
+   "title": "하코다테 미술관 컬렉션 문자와 아트 — 팝아트에서 서예까지",
+   "originalTitle": "函館美術館コレクション 文字とアート －ポップ・アートから書まで",
+   "venue": "홋카이도립근대미술관",
+   "city": "삿포로",
+   "area": "니시18초메",
+   "start": "2027-01-09",
+   "end": "2027-04-11",
+   "genre": "cont",
+   "tentative": true,
+   "url": "https://artmuseum.pref.hokkaido.lg.jp/knb/exhibition/program/336",
+   "venueUrl": "https://artmuseum.pref.hokkaido.lg.jp/knb/"
+  },
+  {
+   "id": "fpam-neko",
+   "title": "고양이 가득 — 우키요에 속의 고양이들",
+   "originalTitle": "ねこ∞（づくし）―浮世絵のなかのねこたち",
+   "venue": "후쿠오카현립미술관",
+   "city": "후쿠오카",
+   "area": "덴진(스자키공원)",
+   "start": "2027-01-13",
+   "end": "2027-03-07",
+   "genre": "jp",
+   "url": "https://fukuoka-kenbi.jp/exhibition/2026/0422_18477/",
+   "venueUrl": "https://fukuoka-kenbi.jp/"
+  },
+  {
+   "id": "operacity-kajfranck",
+   "title": "카이 프랑크전 — 시대를 넘는 핀란드 디자인",
+   "originalTitle": "カイ・フランク展 時代を超えるフィンランド・デザイン",
+   "venue": "도쿄 오페라시티 아트 갤러리",
+   "city": "도쿄",
+   "area": "하쓰다이",
+   "start": "2027-01-16",
+   "end": "2027-03-22",
+   "genre": "craft",
+   "note": "순회전",
+   "venueUrl": "https://www.operacity.jp/ag/"
+  },
+  {
    "id": "shiodome-gustavsberg",
    "title": "스웨덴의 그릇 — 구스타브스베리가 있는 생활",
    "originalTitle": "スウェーデンのうつわ グスタフスベリのある暮らし",
@@ -1190,6 +1810,31 @@
    "end": "2027-03-22",
    "genre": "craft",
    "venueUrl": "https://panasonic.co.jp/ew/museum/"
+  },
+  {
+   "id": "teien-lithuania",
+   "title": "사랑을 잣고 기도를 새기다 — 리투아니아의 수공예",
+   "originalTitle": "愛を紡ぎ、祈りを刻む―リトアニアの手仕事―",
+   "venue": "도쿄도 정원미술관",
+   "city": "도쿄",
+   "area": "시로카네다이",
+   "start": "2027-01-16",
+   "end": "2027-03-28",
+   "genre": "craft",
+   "venueUrl": "https://www.teien-art-museum.ne.jp/"
+  },
+  {
+   "id": "eisei-hosokawa4",
+   "title": "호소카와가 4대전",
+   "originalTitle": "細川家四代展",
+   "venue": "에이세이분코 미술관",
+   "city": "도쿄",
+   "area": "메지로다이",
+   "start": "2027-01-16",
+   "end": "2027-04-11",
+   "genre": "jp",
+   "tentative": true,
+   "venueUrl": "https://www.eiseibunko.com/"
   },
   {
    "id": "tnm-genji",
@@ -1206,6 +1851,70 @@
    "venueUrl": "https://www.tnm.jp/"
   },
   {
+   "id": "uenomori-persona",
+   "title": "페르소나 30주년 전시",
+   "originalTitle": "PERSONA 30th EX.",
+   "venue": "우에노노모리 미술관",
+   "city": "도쿄",
+   "area": "우에노",
+   "start": "2027-01-21",
+   "end": "2027-02-07",
+   "genre": "cont",
+   "note": "게임 '페르소나' 시리즈 30주년",
+   "venueUrl": "https://www.ueno-mori.org/"
+  },
+  {
+   "id": "kanazawabunko-zenseki",
+   "title": "선적의 정화 — 료소쿠인의 학문",
+   "originalTitle": "特別展 禅籍の精華—両足院の学問",
+   "venue": "가나가와현립 가나자와문고",
+   "city": "요코하마",
+   "area": "가나자와핫케이",
+   "start": "2027-01-22",
+   "end": "2027-03-22",
+   "genre": "jp",
+   "tentative": true,
+   "venueUrl": "https://www.pen-kanagawa.ed.jp/kanazawabunko/"
+  },
+  {
+   "id": "fam-hosoda",
+   "title": "『시간을 달리는 소녀』 20주년 기념 호소다 마모루의 원점전",
+   "originalTitle": "『時をかける少女』20周年記念 細田守の原点/展",
+   "venue": "후쿠오카시미술관",
+   "city": "후쿠오카",
+   "area": "오호리공원",
+   "start": "2027-01-22",
+   "end": "2027-03-28",
+   "genre": "cont",
+   "url": "https://www.fukuoka-art-museum.jp/exhibition/mamoruhosoda_genten/",
+   "venueUrl": "https://www.fukuoka-art-museum.jp/"
+  },
+  {
+   "id": "artpark-abstract",
+   "title": "삿포로 미술전 나와 세계를 재는 법 — 왕복하는 추상회화",
+   "originalTitle": "札幌美術展　わたしと世界のはかり方　往還する抽象絵画",
+   "venue": "삿포로 예술의 숲 미술관",
+   "city": "삿포로",
+   "area": "미나미구(예술의 숲)",
+   "start": "2027-01-23",
+   "end": "2027-03-14",
+   "genre": "cont",
+   "url": "https://artpark.or.jp/tenrankai-event/abstract_painting_2026/",
+   "venueUrl": "https://artpark.or.jp/"
+  },
+  {
+   "id": "ota-yukaku",
+   "title": "유곽의 미술사",
+   "originalTitle": "遊廓の美術史",
+   "venue": "오타 기념 미술관",
+   "city": "도쿄",
+   "area": "하라주쿠",
+   "start": "2027-01-26",
+   "end": "2027-03-28",
+   "genre": "jp",
+   "venueUrl": "https://www.ukiyoe-ota-muse.jp/"
+  },
+  {
    "id": "apmoa-sekainokotowari",
    "title": "세카이노코토와리 — 우리 시대의 미술",
    "originalTitle": "セカイノコトワリ──私たちの時代の美術",
@@ -1217,6 +1926,46 @@
    "genre": "cont",
    "url": "https://apmoa.museum/exhibition/wheredowestand",
    "venueUrl": "https://apmoa.museum/"
+  },
+  {
+   "id": "faam-mappa",
+   "title": "MAPPA EXPO 15주년",
+   "originalTitle": "MAPPA EXPO 15th Anniversary",
+   "venue": "후쿠오카 아시아 미술관",
+   "city": "후쿠오카",
+   "area": "하카타 리버레인",
+   "start": "2027-01-30",
+   "end": "2027-03-28",
+   "genre": "cont",
+   "note": "전후기 교체",
+   "url": "https://faam.city.fukuoka.lg.jp/exhibition/27728/",
+   "venueUrl": "https://faam.city.fukuoka.lg.jp/"
+  },
+  {
+   "id": "hiroshima-marimekko",
+   "title": "마리메코전 — 패턴의 힘",
+   "originalTitle": "マリメッコ展 模様のちから",
+   "venue": "히로시마 미술관",
+   "city": "히로시마",
+   "area": "주오공원",
+   "start": "2027-01-30",
+   "end": "2027-03-28",
+   "genre": "craft",
+   "note": "도쿄도 정원미술관에서 순회",
+   "url": "https://www.hiroshima-museum.jp/special/detail/202701_marimekko.html",
+   "venueUrl": "https://www.hiroshima-museum.jp/"
+  },
+  {
+   "id": "nezu-buddha",
+   "title": "네즈 미술관의 불상 컬렉션",
+   "originalTitle": "根津美術館の仏像コレクション",
+   "venue": "네즈 미술관",
+   "city": "도쿄",
+   "area": "오모테산도",
+   "start": "2027-01-30",
+   "end": "2027-03-28",
+   "genre": "jp",
+   "venueUrl": "https://www.nezu-muse.or.jp/"
   },
   {
    "id": "seikado-ohina",
@@ -1231,16 +1980,16 @@
    "venueUrl": "https://www.seikado.or.jp/"
   },
   {
-   "id": "nezu-buddha",
-   "title": "네즈 미술관의 불상 컬렉션",
-   "originalTitle": "根津美術館の仏像コレクション",
-   "venue": "네즈 미술관",
-   "city": "도쿄",
-   "area": "오모테산도",
+   "id": "yokoo-before-after",
+   "title": "요코오 다다노리의 비포/애프터",
+   "originalTitle": "横尾忠則のビフォー／アフター",
+   "venue": "요코오 다다노리 현대미술관",
+   "city": "고베",
+   "area": "나다",
    "start": "2027-01-30",
-   "end": "2027-03-28",
-   "genre": "jp",
-   "venueUrl": "https://www.nezu-muse.or.jp/"
+   "end": "2027-05-05",
+   "genre": "cont",
+   "venueUrl": "https://ytmoca.jp/"
   },
   {
    "id": "fukuda-timeless-code",
@@ -1269,6 +2018,20 @@
    "venueUrl": "https://www.2121designsight.jp/"
   },
   {
+   "id": "nagoyacity-fontanesi",
+   "title": "폰타네시 — 이탈리아의 빛, 마음의 풍경",
+   "originalTitle": "日本イタリア国交樹立160周年記念／フォンタネージ来日150周年記念 フォンタネージ －イタリアの光・心の風景",
+   "venue": "나고야시미술관",
+   "city": "나고야",
+   "area": "사카에·시라카와공원",
+   "start": "2027-02-06",
+   "end": "2027-04-04",
+   "genre": "west",
+   "note": "미쓰비시 이치고칸 미술관에서 순회",
+   "url": "https://art-museum.city.nagoya.jp/exhibitions/post/fontanesi/",
+   "venueUrl": "https://www.art-museum.city.nagoya.jp/"
+  },
+  {
    "id": "osakacity-okyo",
    "title": "마루야마 오쿄 — 리얼 너머로, 공간 혁명",
    "originalTitle": "円山応挙 リアルの先へ 空間革命",
@@ -1282,18 +2045,109 @@
    "venueUrl": "https://www.osaka-art-museum.jp/"
   },
   {
+   "id": "tokugawa-daimyo-asobu",
+   "title": "다이묘도 논다",
+   "originalTitle": "企画展「大名もあそぶ」",
+   "venue": "도쿠가와 미술관",
+   "city": "나고야",
+   "area": "히가시구(도쿠가와엔)",
+   "start": "2027-02-06",
+   "end": "2027-04-04",
+   "genre": "jp",
+   "url": "https://www.tokugawa-art-museum.jp/exhibitions/%e5%a4%a7%e5%90%8d%e3%82%82%e3%81%82%e3%81%9d%e3%81%b6/",
+   "venueUrl": "https://www.tokugawa-art-museum.jp/"
+  },
+  {
+   "id": "tokugawa-hina-2027",
+   "title": "오와리 도쿠가와가의 히나마쓰리",
+   "originalTitle": "特別展「尾張徳川家の雛まつり」",
+   "venue": "도쿠가와 미술관",
+   "city": "나고야",
+   "area": "히가시구(도쿠가와엔)",
+   "start": "2027-02-06",
+   "end": "2027-04-04",
+   "genre": "craft",
+   "url": "https://www.tokugawa-art-museum.jp/exhibitions/%e9%9b%9b%e3%81%be%e3%81%a4%e3%82%8a/",
+   "venueUrl": "https://www.tokugawa-art-museum.jp/"
+  },
+  {
    "id": "kyocera-zarka",
-   "title": "사고하는 조각가 — 라파엘 자르카와 호리우치 마사카즈",
-   "originalTitle": "思考する彫刻家 ラファエル・ザルカと堀内正和 ―幾何学とモダニティをめぐる対話（仮称）",
+   "title": "라파엘 자르카: 기하학, 시간, 스케이트보드",
+   "originalTitle": "特別展「ラファエル・ザルカ：幾何学、時間、スケートボード」",
    "venue": "교토시 교세라 미술관",
    "city": "교토",
    "area": "오카자키",
    "start": "2027-02-06",
    "end": "2027-05-05",
    "genre": "cont",
-   "tentative": true,
    "url": "https://kyotocity-kyocera.museum/exhibition/20270206-20270505",
    "venueUrl": "https://kyotocity-kyocera.museum/"
+  },
+  {
+   "id": "mot-haacke",
+   "title": "한스 하케: 인포메이션 플로우",
+   "originalTitle": "ハンス・ハーケ：インフォメーション・フロー",
+   "venue": "도쿄도현대미술관",
+   "city": "도쿄",
+   "area": "기요스미시라카와",
+   "start": "2027-02-06",
+   "end": "2027-05-16",
+   "genre": "cont",
+   "note": "아시아 첫 대규모 회고전",
+   "venueUrl": "https://www.mot-art-museum.jp/"
+  },
+  {
+   "id": "kobecity-vangogh-arles",
+   "title": "대 고흐전 아를의 도개교",
+   "originalTitle": "大ゴッホ展 アルルの跳ね橋",
+   "venue": "고베시립박물관",
+   "city": "고베",
+   "area": "산노미야·구거류지",
+   "start": "2027-02-06",
+   "end": "2027-05-30",
+   "genre": "west",
+   "note": "「밤의 카페테라스」에 이은 제2탄",
+   "url": "https://www.ktv.jp/event/vangogh/",
+   "venueUrl": "https://www.kobecitymuseum.jp/"
+  },
+  {
+   "id": "mitsui-hina2027",
+   "title": "미쓰이가의 히나 인형",
+   "originalTitle": "三井家のおひなさま 特集展示 三井家の羽箒",
+   "venue": "미쓰이 기념 미술관",
+   "city": "도쿄",
+   "area": "니혼바시",
+   "start": "2027-02-11",
+   "end": "2027-04-04",
+   "genre": "craft",
+   "tentative": true,
+   "venueUrl": "https://www.mitsui-museum.jp/"
+  },
+  {
+   "id": "edohaku-oshare",
+   "title": "에도 오샤레",
+   "originalTitle": "江戸東京博物館リニューアル記念特別展「江戸オシャレ」",
+   "venue": "에도도쿄박물관",
+   "city": "도쿄",
+   "area": "료고쿠",
+   "start": "2027-02-13",
+   "end": "2027-04-04",
+   "genre": "craft",
+   "tentative": true,
+   "venueUrl": "https://www.edo-tokyo-museum.or.jp/"
+  },
+  {
+   "id": "hmoca-som-supaparinya",
+   "title": "솜 수파파린야전(가제)",
+   "originalTitle": "ソム・スパパリンヤ展（仮）",
+   "venue": "히로시마시 현대미술관",
+   "city": "히로시마",
+   "area": "히지야마",
+   "start": "2027-02-13",
+   "end": "2027-05-23",
+   "genre": "cont",
+   "tentative": true,
+   "venueUrl": "https://www.hiroshima-moca.jp/"
   },
   {
    "id": "ichigokan-montmartre",
@@ -1312,7 +2166,7 @@
   {
    "id": "tsg-yamaga",
    "title": "생탄 140년 염직가 야마가 세이카",
-   "originalTitle": "生誕140年 染織家 山鹿清華",
+   "originalTitle": "生誕140年記念 染織家 山鹿清華 宙翔ぶイマジネーション",
    "venue": "도쿄 스테이션 갤러리",
    "city": "도쿄",
    "area": "마루노우치·교바시",
@@ -1322,6 +2176,20 @@
    "note": "교토시 교세라 미술관에서 순회해 와요.",
    "url": "http://www.ejrcf.or.jp/gallery/exhibition.html#section03",
    "venueUrl": "https://www.ejrcf.or.jp/gallery/"
+  },
+  {
+   "id": "mot-annual-2027",
+   "title": "MOT 애뉴얼 2027",
+   "originalTitle": "MOTアニュアル2027",
+   "venue": "도쿄도현대미술관",
+   "city": "도쿄",
+   "area": "기요스미시라카와",
+   "start": "2027-02-20",
+   "end": "2027-05-30",
+   "genre": "cont",
+   "tentative": true,
+   "note": "상세 미정",
+   "venueUrl": "https://www.mot-art-museum.jp/"
   },
   {
    "id": "craft-kintsugi",
@@ -1335,6 +2203,46 @@
    "genre": "craft",
    "url": "https://www.momat.go.jp/craft-museum/exhibitions/574",
    "venueUrl": "https://www.momat.go.jp/craft-museum"
+  },
+  {
+   "id": "hosomi-silk",
+   "title": "비단의 미, 직조의 기술 — 야마구치 이타로와 「겐지모노가타리 니시키오리 에마키」(가제)",
+   "originalTitle": "絹の美、織の技 ―山口伊太郎と「源氏物語錦織絵巻」(仮)",
+   "venue": "호소미 미술관",
+   "city": "교토",
+   "area": "오카자키",
+   "start": "2027-03-06",
+   "end": "2027-05-09",
+   "genre": "craft",
+   "tentative": true,
+   "venueUrl": "https://www.emuseum.or.jp/"
+  },
+  {
+   "id": "kahaku-dino2027",
+   "title": "공룡박 2027",
+   "originalTitle": "特別展「恐竜博2027」",
+   "venue": "국립과학박물관",
+   "city": "도쿄",
+   "area": "우에노",
+   "start": "2027-03-13",
+   "end": "2027-06-13",
+   "genre": "sci",
+   "url": "https://dino2027.exhibit.jp/",
+   "venueUrl": "https://www.kahaku.go.jp/"
+  },
+  {
+   "id": "nakanoshima-turner",
+   "title": "테이트 미술관 터너전 — 숭고의 회화, 현대미술과의 대화",
+   "originalTitle": "テート美術館 ターナー展――崇高の絵画、現代美術との対話",
+   "venue": "오사카 나카노시마 미술관",
+   "city": "오사카",
+   "area": "나카노시마",
+   "start": "2027-03-13",
+   "end": "2027-06-27",
+   "genre": "west",
+   "note": "도쿄 국립서양미술관에서 순회",
+   "url": "https://www.ktv.jp/event/turner_osaka",
+   "venueUrl": "https://nakka-art.jp/"
   }
  ]
 }
